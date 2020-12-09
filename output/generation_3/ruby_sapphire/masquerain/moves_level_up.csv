@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble,Water,special,40,40
+1,Quick Attack,Normal,physical,40,40
+1,Sweet Scent,Normal,status,-,-
+1,Water Sport,Water,status,-,-
+7,Quick Attack,Normal,physical,40,40
+13,Sweet Scent,Normal,status,-,-
+19,Water Sport,Water,status,-,-
+26,Gust,Flying,special,40,40
+33,Scary Face,Normal,status,-,-
+40,Stun Spore,Grass,status,-,-
+47,Silver Wind,Bug,special,60,60
+53,Whirlwind,Normal,status,-,-

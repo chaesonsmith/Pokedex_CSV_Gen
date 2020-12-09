@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Belly Drum,Normal,status,-,-
+Body Slam,Normal,physical,85,100
+Magnitude,Ground,physical,-,100

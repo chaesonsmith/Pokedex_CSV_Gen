@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Beat Up,Dark,physical,-,100
+Charm,Fairy,status,-,100
+Counter,Fighting,physical,-,100
+Disable,Normal,status,-,100
+Focus Energy,Normal,status,-,-
+Supersonic,Normal,status,-,55
+Take Down,Normal,physical,90,85

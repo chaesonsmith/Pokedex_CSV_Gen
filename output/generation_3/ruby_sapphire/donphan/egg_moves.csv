@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Body Slam,Normal,physical,85,100
+Counter,Fighting,physical,-,100
+Fissure,Ground,physical,-,-
+Focus Energy,Normal,status,-,-
+Snore,Normal,special,50,100

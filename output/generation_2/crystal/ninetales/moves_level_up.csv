@@ -1,0 +1,6 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confuse Ray,Ghost,status,-,-
+1,Ember,Fire,special,40,40
+1,Quick Attack,Normal,physical,40,40
+1,Safeguard,Normal,status,-,-
+43,Fire Spin,Fire,special,35,35

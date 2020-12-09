@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bide,Normal,physical,-,-
+1,Confusion,Psychic,special,50,50
+1,Detect,Fighting,status,-,-
+1,Fire Punch,Fire,physical,75,75
+1,Ice Punch,Ice,physical,75,75
+1,Meditate,Psychic,status,-,-
+1,Thunder Punch,Electric,physical,75,75
+4,Meditate,Psychic,status,-,-
+9,Confusion,Psychic,special,50,50
+12,Detect,Fighting,status,-,-
+17,Hidden Power,Normal,special,60,60
+20,Swagger,Normal,status,-,-
+25,Mind Reader,Normal,status,-,-
+28,Calm Mind,Psychic,status,-,-
+33,High Jump Kick,Fighting,physical,130,130
+36,Psych Up,Normal,status,-,-
+47,Reversal,Fighting,physical,-,-
+56,Recover,Normal,status,-,-

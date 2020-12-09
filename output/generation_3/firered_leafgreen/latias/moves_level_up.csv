@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Psywave,Psychic,special,-,-
+5,Wish,Normal,status,-,-
+10,Helping Hand,Normal,status,-,-
+15,Safeguard,Normal,status,-,-
+20,Dragon Breath,Dragon,special,60,60
+25,Water Sport,Water,status,-,-
+30,Refresh,Normal,status,-,-
+35,Mist Ball,Psychic,special,70,70
+40,Psychic,Psychic,special,90,90
+45,Recover,Normal,status,-,-
+50,Charm,Fairy,status,-,-

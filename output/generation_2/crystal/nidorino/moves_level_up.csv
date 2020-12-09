@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+8,Horn Attack,Normal,physical,65,65
+12,Double Kick,Fighting,physical,30,30
+19,Poison Sting,Poison,physical,15,15
+27,Focus Energy,Normal,status,-,-
+36,Fury Attack,Normal,physical,15,15
+46,Horn Drill,Normal,physical,-,-

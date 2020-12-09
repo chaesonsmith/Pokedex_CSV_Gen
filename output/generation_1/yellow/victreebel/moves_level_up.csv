@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Acid,Poison,special,40,40
+1,Razor Leaf,Grass,physical,55,55
+1,Sleep Powder,Grass,status,-,-
+1,Stun Spore,Grass,status,-,-
+13,Wrap,Normal,physical,15,15
+15,Poison Powder,Poison,status,-,-
+18,Sleep Powder,Grass,status,-,-

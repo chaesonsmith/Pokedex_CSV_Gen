@@ -1,0 +1,10 @@
+Move,Type,Cat.,Power,Acc.,Method
+Fake Out,Normal,physical,40,100,Level up
+Fury Swipes,Normal,physical,18,80,Level up
+Hydro Pump,Water,special,110,80,Level up
+Mega Drain,Grass,special,40,100,Level up
+Mist,Ice,status,-,-,Level up
+Rain Dance,Water,status,-,-,Level up
+Thief,Dark,physical,60,100,Level up
+Uproar,Normal,special,90,100,Level up
+Water Sport,Water,status,-,-,Level up

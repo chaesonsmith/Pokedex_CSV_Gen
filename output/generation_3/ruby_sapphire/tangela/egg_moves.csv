@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Confusion,Psychic,special,50,100
+Flail,Normal,physical,-,100
+Leech Seed,Grass,status,-,90
+Mega Drain,Grass,special,40,100
+Nature Power,Normal,status,-,-
+Reflect,Psychic,status,-,-

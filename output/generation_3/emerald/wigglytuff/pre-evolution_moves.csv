@@ -1,0 +1,11 @@
+Move,Type,Cat.,Power,Acc.,Method
+Body Slam,Normal,physical,85,100,Level up
+Charm,Fairy,status,-,100,Level up
+Double-Edge,Normal,physical,120,100,Level up
+Hyper Voice,Normal,special,90,100,Level up
+Mimic,Normal,status,-,-,Level up
+Pound,Normal,physical,40,100,Level up
+Rest,Psychic,status,-,-,Level up
+Rollout,Rock,physical,30,90,Level up
+Sweet Kiss,Fairy,status,-,75,Level up
+Icy Wind,Ice,special,55,95,Move tutor

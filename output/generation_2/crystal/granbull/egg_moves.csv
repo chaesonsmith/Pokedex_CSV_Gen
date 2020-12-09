@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Crunch,Dark,physical,80,100
+Feint Attack,Dark,physical,60,∞
+Heal Bell,Normal,status,-,-
+Leer,Normal,status,-,100
+Lick,Ghost,physical,30,100
+Metronome,Normal,status,-,-
+Present,Normal,physical,-,90
+Reflect,Psychic,status,-,-

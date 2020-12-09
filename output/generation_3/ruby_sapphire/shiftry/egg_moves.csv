@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+False Swipe,Normal,physical,40,100
+Leech Seed,Grass,status,-,90
+Quick Attack,Normal,physical,40,100
+Razor Wind,Normal,special,80,100
+Take Down,Normal,physical,90,85

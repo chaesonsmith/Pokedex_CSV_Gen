@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Air Cutter,Flying,special,60,95
+Feint Attack,Dark,physical,60,∞
+Foresight,Normal,status,-,-
+Pursuit,Dark,physical,40,100
+Steel Wing,Steel,physical,70,90

@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Bide,Normal,physical,-,-
+Bite,Dark,physical,60,100
+Rage,Normal,physical,20,100
+Rock Slide,Rock,physical,75,90

@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Charm,Fairy,status,-,100,Level up
+Sweet Kiss,Fairy,status,-,75,Level up
+Icy Wind,Ice,special,55,95,Move tutor

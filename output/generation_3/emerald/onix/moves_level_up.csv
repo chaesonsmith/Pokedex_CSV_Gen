@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Screech,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+9,Bind,Normal,physical,15,15
+13,Rock Throw,Rock,physical,50,50
+21,Harden,Normal,status,-,-
+25,Rage,Normal,physical,20,20
+33,Sandstorm,Rock,status,-,-
+37,Slam,Normal,physical,80,80
+45,Iron Tail,Steel,physical,100,100
+49,Sand Tomb,Ground,physical,35,35
+57,Double-Edge,Normal,physical,120,120

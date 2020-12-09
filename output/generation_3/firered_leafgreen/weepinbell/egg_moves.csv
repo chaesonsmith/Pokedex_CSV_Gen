@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Encore,Normal,status,-,100
+Ingrain,Grass,status,-,-
+Leech Life,Bug,physical,80,100
+Magical Leaf,Grass,special,60,∞
+Reflect,Psychic,status,-,-
+Swords Dance,Normal,status,-,-
+Synthesis,Grass,status,-,-

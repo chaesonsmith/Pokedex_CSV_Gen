@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+6,Defense Curl,Normal,status,-,-
+11,Rock Throw,Rock,physical,50,50
+16,Magnitude,Ground,physical,-,-
+21,Self-Destruct,Normal,physical,200,200
+26,Harden,Normal,status,-,-
+31,Rollout,Rock,physical,30,30
+36,Earthquake,Ground,physical,100,100
+41,Explosion,Normal,physical,250,250

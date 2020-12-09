@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+7,Rage,Normal,physical,20,20
+13,Water Gun,Water,special,40,40
+20,Bite,Dark,physical,60,60
+27,Scary Face,Normal,status,-,-
+35,Slash,Normal,physical,70,70
+43,Screech,Normal,status,-,-
+52,Hydro Pump,Water,special,110,110

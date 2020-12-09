@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Metal Claw,Steel,physical,50,50
+1,Scary Face,Normal,status,-,-
+1,Take Down,Normal,physical,90,90
+20,Confusion,Psychic,special,50,50
+20,Metal Claw,Steel,physical,50,50
+26,Scary Face,Normal,status,-,-
+32,Pursuit,Dark,physical,40,40
+38,Psychic,Psychic,special,90,90
+44,Iron Defense,Steel,status,-,-
+55,Meteor Mash,Steel,physical,90,90
+66,Agility,Psychic,status,-,-
+77,Hyper Beam,Normal,special,150,150

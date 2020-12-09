@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.,Method
+Agility,Psychic,status,-,-,Level up
+Double Team,Normal,status,-,-,Level up
+Light Screen,Psychic,status,-,-,Level up
+Quick Attack,Normal,physical,40,100,Level up
+Slam,Normal,physical,80,75,Level up
+Tail Whip,Normal,status,-,100,Level up
+Thunder,Electric,special,110,70,Level up
+Thunderbolt,Electric,special,90,100,Level up

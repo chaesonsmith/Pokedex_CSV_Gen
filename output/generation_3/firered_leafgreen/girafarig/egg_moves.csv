@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Beat Up,Dark,physical,-,100
+Foresight,Normal,status,-,-
+Future Sight,Psychic,special,120,100
+Magic Coat,Psychic,status,-,-
+Psych Up,Normal,status,-,-
+Take Down,Normal,physical,90,85
+Wish,Normal,status,-,-

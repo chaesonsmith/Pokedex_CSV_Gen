@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Barrier,Psychic,status,-,-
+Confuse Ray,Ghost,status,-,100
+Icicle Spear,Ice,physical,25,100
+Ingrain,Grass,status,-,-
+Mist,Ice,status,-,-
+Rock Slide,Rock,physical,75,90
+Screech,Normal,status,-,85

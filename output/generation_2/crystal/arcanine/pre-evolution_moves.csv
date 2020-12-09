@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Agility,Psychic,status,-,-,Level up
+Bite,Dark,physical,60,100,Level up
+Ember,Fire,special,40,100,Level up
+Flamethrower,Fire,special,90,100,Level up

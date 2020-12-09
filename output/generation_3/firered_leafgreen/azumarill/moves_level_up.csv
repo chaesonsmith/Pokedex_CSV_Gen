@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Defense Curl,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+1,Water Gun,Water,special,40,40
+3,Defense Curl,Normal,status,-,-
+6,Tail Whip,Normal,status,-,-
+10,Water Gun,Water,special,40,40
+15,Rollout,Rock,physical,30,30
+24,Bubble Beam,Water,special,65,65
+34,Double-Edge,Normal,physical,120,120
+45,Rain Dance,Water,status,-,-
+57,Hydro Pump,Water,special,110,110

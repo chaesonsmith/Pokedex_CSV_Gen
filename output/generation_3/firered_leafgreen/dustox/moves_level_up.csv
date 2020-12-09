@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+10,Confusion,Psychic,special,50,50
+13,Gust,Flying,special,40,40
+17,Protect,Normal,status,-,-
+20,Moonlight,Fairy,status,-,-
+24,Psybeam,Psychic,special,65,65
+27,Whirlwind,Normal,status,-,-
+31,Light Screen,Psychic,status,-,-
+34,Silver Wind,Bug,special,60,60
+38,Toxic,Poison,status,-,-

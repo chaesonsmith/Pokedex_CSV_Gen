@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Bite,Dark,physical,60,100,Level up
+Double Kick,Fighting,physical,30,100,Level up
+Fury Swipes,Normal,physical,18,80,Level up
+Growl,Normal,status,-,100,Level up

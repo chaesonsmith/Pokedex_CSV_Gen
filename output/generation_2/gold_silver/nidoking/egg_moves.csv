@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Beat Up,Dark,physical,-,100
+Confusion,Psychic,special,50,100
+Counter,Fighting,physical,-,100
+Disable,Normal,status,-,100
+Supersonic,Normal,status,-,55
+Take Down,Normal,physical,90,85

@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Wrap,Normal,physical,15,15
+7,Lick,Ghost,physical,30,30
+10,Bite,Dark,physical,60,60
+16,Poison Tail,Poison,physical,50,50
+19,Screech,Normal,status,-,-
+25,Glare,Normal,status,-,-
+28,Crunch,Dark,physical,80,80
+34,Poison Fang,Poison,physical,50,50
+37,Swagger,Normal,status,-,-
+43,Haze,Ice,status,-,-

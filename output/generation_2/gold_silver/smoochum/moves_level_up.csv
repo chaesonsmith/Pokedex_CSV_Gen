@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Lick,Ghost,physical,30,30
+1,Pound,Normal,physical,40,40
+9,Sweet Kiss,Fairy,status,-,-
+13,Powder Snow,Ice,special,40,40
+21,Confusion,Psychic,special,50,50
+25,Sing,Normal,status,-,-
+33,Mean Look,Normal,status,-,-
+37,Psychic,Psychic,special,90,90
+45,Perish Song,Normal,status,-,-
+49,Blizzard,Ice,special,110,110

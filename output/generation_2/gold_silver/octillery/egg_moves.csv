@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Aurora Beam,Ice,special,65,100
+Haze,Ice,status,-,-
+Octazooka,Water,special,65,85
+Screech,Normal,status,-,85
+Supersonic,Normal,status,-,55

@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+7,Ember,Fire,special,40,40
+13,Smokescreen,Normal,status,-,-
+19,Rage,Normal,physical,20,20
+25,Scary Face,Normal,status,-,-
+31,Flamethrower,Fire,special,90,90
+37,Slash,Normal,physical,70,70
+43,Dragon Rage,Dragon,special,-,-
+49,Fire Spin,Fire,special,35,35

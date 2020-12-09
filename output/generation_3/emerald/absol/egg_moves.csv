@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Baton Pass,Normal,status,-,-
+Curse,Ghost,status,-,-
+Double-Edge,Normal,physical,120,100
+Feint Attack,Dark,physical,60,∞
+Magic Coat,Psychic,status,-,-
+Substitute,Normal,status,-,-

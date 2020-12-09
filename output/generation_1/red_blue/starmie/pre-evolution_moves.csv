@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.,Method
+Hydro Pump,Water,special,110,80,Level up
+Light Screen,Psychic,status,-,-,Level up
+Minimize,Normal,status,-,-,Level up
+Recover,Normal,status,-,-,Level up
+Swift,Normal,special,60,∞,Level up

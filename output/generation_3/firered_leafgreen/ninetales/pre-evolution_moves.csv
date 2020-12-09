@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.,Method
+Flamethrower,Fire,special,90,100,Level up
+Grudge,Ghost,status,-,-,Level up
+Imprison,Psychic,status,-,-,Level up
+Roar,Normal,status,-,-,Level up
+Tail Whip,Normal,status,-,100,Level up
+Will-O-Wisp,Fire,status,-,85,Level up

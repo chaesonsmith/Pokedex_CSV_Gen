@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Constrict,Normal,physical,10,10
+1,Withdraw,Water,status,-,-
+13,Bite,Dark,physical,60,60
+19,Water Gun,Water,special,40,40
+31,Leer,Normal,status,-,-
+37,Protect,Normal,status,-,-
+40,Spike Cannon,Normal,physical,20,20
+54,Ancient Power,Rock,special,60,60
+65,Hydro Pump,Water,special,110,110

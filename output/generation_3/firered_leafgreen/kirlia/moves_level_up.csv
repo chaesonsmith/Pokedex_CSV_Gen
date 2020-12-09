@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Double Team,Normal,status,-,-
+1,Growl,Normal,status,-,-
+1,Magical Leaf,Grass,special,60,60
+1,Teleport,Psychic,status,-,-
+6,Confusion,Psychic,special,50,50
+11,Double Team,Normal,status,-,-
+16,Teleport,Psychic,status,-,-
+21,Calm Mind,Psychic,status,-,-
+26,Psychic,Psychic,special,90,90
+33,Imprison,Psychic,status,-,-
+40,Future Sight,Psychic,special,120,120
+47,Hypnosis,Psychic,status,-,-
+54,Dream Eater,Psychic,special,100,100

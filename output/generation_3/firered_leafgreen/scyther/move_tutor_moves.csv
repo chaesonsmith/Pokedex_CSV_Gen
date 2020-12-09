@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Double-Edge,Normal,physical,120,100
+Mimic,Normal,status,-,-
+Substitute,Normal,status,-,-
+Swords Dance,Normal,status,-,-

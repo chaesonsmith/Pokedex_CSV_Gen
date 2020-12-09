@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+4,Growl,Normal,status,-,-
+8,Defense Curl,Normal,status,-,-
+13,Stomp,Normal,physical,65,65
+19,Milk Drink,Normal,status,-,-
+26,Bide,Normal,physical,-,-
+34,Rollout,Rock,physical,30,30
+43,Body Slam,Normal,physical,85,85
+53,Heal Bell,Normal,status,-,-

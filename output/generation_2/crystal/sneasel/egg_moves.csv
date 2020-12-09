@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Bite,Dark,physical,60,100
+Counter,Fighting,physical,-,100
+Foresight,Normal,status,-,-
+Reflect,Psychic,status,-,-
+Spite,Ghost,status,-,100

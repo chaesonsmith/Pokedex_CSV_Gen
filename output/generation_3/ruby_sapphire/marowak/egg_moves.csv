@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Belly Drum,Normal,status,-,-
+Perish Song,Normal,status,-,-
+Rock Slide,Rock,physical,75,90
+Screech,Normal,status,-,85
+Skull Bash,Normal,physical,130,100
+Swords Dance,Normal,status,-,-

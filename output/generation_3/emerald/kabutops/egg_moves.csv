@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Aurora Beam,Ice,special,65,100
+Bubble Beam,Water,special,65,100
+Confuse Ray,Ghost,status,-,100
+Dig,Ground,physical,80,100
+Flail,Normal,physical,-,100
+Knock Off,Dark,physical,65,100
+Rapid Spin,Normal,physical,20,100

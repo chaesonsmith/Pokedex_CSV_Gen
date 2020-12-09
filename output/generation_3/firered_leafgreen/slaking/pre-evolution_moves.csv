@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.,Method
+Endure,Normal,status,-,-,Level up
+Focus Energy,Normal,status,-,-,Level up
+Focus Punch,Fighting,physical,150,100,Level up
+Fury Swipes,Normal,physical,18,80,Level up
+Reversal,Fighting,physical,-,100,Level up
+Slash,Normal,physical,70,100,Level up
+Uproar,Normal,special,90,100,Level up

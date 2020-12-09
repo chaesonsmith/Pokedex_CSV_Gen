@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Psywave,Psychic,special,-,-
+6,Spite,Ghost,status,-,-
+12,Confuse Ray,Ghost,status,-,-
+19,Mean Look,Normal,status,-,-
+27,Psybeam,Psychic,special,65,65
+36,Pain Split,Normal,status,-,-
+46,Perish Song,Normal,status,-,-

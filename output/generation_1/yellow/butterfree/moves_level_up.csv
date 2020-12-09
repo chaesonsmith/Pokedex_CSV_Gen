@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+10,Confusion,Psychic,special,50,50
+13,Poison Powder,Poison,status,-,-
+14,Stun Spore,Grass,status,-,-
+15,Sleep Powder,Grass,status,-,-
+18,Supersonic,Normal,status,-,-
+23,Whirlwind,Normal,status,-,-
+28,Gust,Flying,special,40,40
+34,Psybeam,Psychic,special,65,65

@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Foresight,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+7,Quick Attack,Normal,physical,40,40
+13,Double Team,Normal,status,-,-
+19,Sonic Boom,Normal,special,-,-
+25,Detect,Fighting,status,-,-
+31,Supersonic,Normal,status,-,-
+37,Swift,Normal,special,60,60
+43,Screech,Normal,status,-,-

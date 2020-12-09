@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Encore,Normal,status,-,100
+Leech Life,Bug,physical,80,100
+Reflect,Psychic,status,-,-
+Swords Dance,Normal,status,-,-
+Synthesis,Grass,status,-,-

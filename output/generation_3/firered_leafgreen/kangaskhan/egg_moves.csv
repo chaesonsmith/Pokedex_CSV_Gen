@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Crush Claw,Normal,physical,75,95
+Disable,Normal,status,-,100
+Focus Energy,Normal,status,-,-
+Foresight,Normal,status,-,-
+Safeguard,Normal,status,-,-
+Stomp,Normal,physical,65,100
+Substitute,Normal,status,-,-

@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Barrier,Psychic,status,-,-
+Cross Chop,Fighting,physical,100,80
+Fire Punch,Fire,physical,75,100
+Ice Punch,Ice,physical,75,100
+Karate Chop,Fighting,physical,50,100
+Meditate,Psychic,status,-,-
+Rolling Kick,Fighting,physical,60,85

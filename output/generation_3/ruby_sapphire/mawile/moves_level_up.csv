@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Astonish,Ghost,physical,30,30
+6,Fake Tears,Dark,status,-,-
+11,Bite,Dark,physical,60,60
+16,Sweet Scent,Normal,status,-,-
+21,Vice Grip,Normal,physical,55,55
+26,Feint Attack,Dark,physical,60,60
+31,Baton Pass,Normal,status,-,-
+36,Crunch,Dark,physical,80,80
+41,Iron Defense,Steel,status,-,-
+46,Spit Up,Normal,special,-,-
+46,Stockpile,Normal,status,-,-
+46,Swallow,Normal,status,-,-

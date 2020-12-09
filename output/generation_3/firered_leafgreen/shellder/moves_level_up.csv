@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+1,Withdraw,Water,status,-,-
+8,Icicle Spear,Ice,physical,25,25
+15,Supersonic,Normal,status,-,-
+22,Aurora Beam,Ice,special,65,65
+29,Protect,Normal,status,-,-
+36,Leer,Normal,status,-,-
+43,Clamp,Water,physical,35,35
+50,Ice Beam,Ice,special,90,90

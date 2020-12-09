@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Sacred Fire,Fire,physical,100,100
+11,Safeguard,Normal,status,-,-
+22,Gust,Flying,special,40,40
+33,Recover,Normal,status,-,-
+44,Fire Blast,Fire,special,110,110
+55,Sunny Day,Fire,status,-,-
+66,Swift,Normal,special,60,60
+77,Whirlwind,Normal,status,-,-
+88,Ancient Power,Rock,special,60,60
+99,Future Sight,Psychic,special,120,120

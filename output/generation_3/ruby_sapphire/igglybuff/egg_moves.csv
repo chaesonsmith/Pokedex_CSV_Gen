@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Fake Tears,Dark,status,-,100
+Feint Attack,Dark,physical,60,∞
+Perish Song,Normal,status,-,-
+Present,Normal,physical,-,90
+Wish,Normal,status,-,-

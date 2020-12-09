@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Curse,Ghost,status,-,-
+Double-Edge,Normal,physical,120,100
+Fissure,Ground,physical,-,-
+Lick,Ghost,physical,30,100
+Substitute,Normal,status,-,-

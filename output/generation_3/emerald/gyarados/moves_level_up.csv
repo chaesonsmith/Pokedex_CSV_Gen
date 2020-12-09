@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Thrash,Normal,physical,120,120
+20,Bite,Dark,physical,60,60
+25,Dragon Rage,Dragon,special,-,-
+30,Leer,Normal,status,-,-
+35,Twister,Dragon,special,40,40
+40,Hydro Pump,Water,special,110,110
+45,Rain Dance,Water,status,-,-
+50,Dragon Dance,Dragon,status,-,-
+55,Hyper Beam,Normal,special,150,150

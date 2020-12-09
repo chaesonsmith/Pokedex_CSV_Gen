@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Dig,Ground,physical,80,100
+Flail,Normal,physical,-,100
+Haze,Ice,status,-,-
+Slam,Normal,physical,80,75

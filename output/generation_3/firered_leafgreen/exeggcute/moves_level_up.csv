@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Barrage,Normal,physical,15,15
+1,Hypnosis,Psychic,status,-,-
+1,Uproar,Normal,special,90,90
+7,Reflect,Psychic,status,-,-
+13,Leech Seed,Grass,status,-,-
+19,Confusion,Psychic,special,50,50
+25,Stun Spore,Grass,status,-,-
+31,Poison Powder,Poison,status,-,-
+37,Sleep Powder,Grass,status,-,-
+43,Solar Beam,Grass,special,120,120

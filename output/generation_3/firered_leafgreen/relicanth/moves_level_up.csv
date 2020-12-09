@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+8,Water Gun,Water,special,40,40
+15,Rock Tomb,Rock,physical,60,60
+22,Yawn,Normal,status,-,-
+29,Take Down,Normal,physical,90,90
+36,Mud Sport,Ground,status,-,-
+43,Ancient Power,Rock,special,60,60
+50,Rest,Psychic,status,-,-
+57,Double-Edge,Normal,physical,120,120
+64,Hydro Pump,Water,special,110,110

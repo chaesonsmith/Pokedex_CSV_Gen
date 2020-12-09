@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+False Swipe,Normal,physical,40,100
+Flail,Normal,physical,-,100
+Light Screen,Psychic,status,-,-
+Psybeam,Psychic,special,65,100
+Pursuit,Dark,physical,40,100
+Screech,Normal,status,-,85

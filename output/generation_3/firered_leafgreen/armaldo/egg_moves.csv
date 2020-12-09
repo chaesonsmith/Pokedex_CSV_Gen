@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Knock Off,Dark,physical,65,100
+Rapid Spin,Normal,physical,20,100
+Rock Slide,Rock,physical,75,90
+Swords Dance,Normal,status,-,-

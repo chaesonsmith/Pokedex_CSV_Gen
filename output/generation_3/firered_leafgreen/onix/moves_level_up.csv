@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Screech,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+8,Bind,Normal,physical,15,15
+12,Rock Throw,Rock,physical,50,50
+19,Harden,Normal,status,-,-
+23,Rage,Normal,physical,20,20
+30,Dragon Breath,Dragon,special,60,60
+34,Sandstorm,Rock,status,-,-
+41,Slam,Normal,physical,80,80
+45,Iron Tail,Steel,physical,100,100
+52,Sand Tomb,Ground,physical,35,35
+56,Double-Edge,Normal,physical,120,120

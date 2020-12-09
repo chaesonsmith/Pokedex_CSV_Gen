@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Leech Life,Bug,physical,80,80
+1,Sand Attack,Ground,status,-,-
+1,Scratch,Normal,physical,40,40
+5,Leech Life,Bug,physical,80,80
+9,Sand Attack,Ground,status,-,-
+14,Fury Swipes,Normal,physical,18,18
+19,Mind Reader,Normal,status,-,-
+20,Double Team,Normal,status,-,-
+20,Fury Cutter,Bug,physical,40,40
+20,Screech,Normal,status,-,-
+25,Swords Dance,Normal,status,-,-
+31,Slash,Normal,physical,70,70
+38,Agility,Psychic,status,-,-
+45,Baton Pass,Normal,status,-,-

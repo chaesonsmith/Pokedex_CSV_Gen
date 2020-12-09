@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Kinesis,Psychic,status,-,-
+1,Teleport,Psychic,status,-,-
+16,Confusion,Psychic,special,50,50
+18,Disable,Normal,status,-,-
+21,Psybeam,Psychic,special,65,65
+23,Reflect,Psychic,status,-,-
+25,Recover,Normal,status,-,-
+30,Future Sight,Psychic,special,120,120
+33,Calm Mind,Psychic,status,-,-
+36,Psychic,Psychic,special,90,90
+43,Trick,Psychic,status,-,-

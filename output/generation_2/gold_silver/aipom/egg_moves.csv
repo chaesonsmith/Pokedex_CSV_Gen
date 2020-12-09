@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Agility,Psychic,status,-,-
+Beat Up,Dark,physical,-,100
+Counter,Fighting,physical,-,100
+Double Slap,Normal,physical,15,85
+Pursuit,Dark,physical,40,100
+Screech,Normal,status,-,85
+Slam,Normal,physical,80,75
+Spite,Ghost,status,-,100

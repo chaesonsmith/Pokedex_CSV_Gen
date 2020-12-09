@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Flail,Normal,physical,-,100
+Foresight,Normal,status,-,-
+Haze,Ice,status,-,-
+Mirror Coat,Psychic,special,-,100
+Mist,Ice,status,-,-
+Mud Sport,Ground,status,-,-
+Refresh,Normal,status,-,-
+Yawn,Normal,status,-,-

@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Howl,Normal,status,-,-
+1,Leer,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Thunder Wave,Electric,status,-,-
+4,Thunder Wave,Electric,status,-,-
+9,Leer,Normal,status,-,-
+12,Howl,Normal,status,-,-
+17,Quick Attack,Normal,physical,40,40
+20,Spark,Electric,physical,65,65
+25,Odor Sleuth,Normal,status,-,-
+31,Roar,Normal,status,-,-
+39,Bite,Dark,physical,60,60
+45,Thunder,Electric,special,110,110
+53,Charge,Electric,status,-,-

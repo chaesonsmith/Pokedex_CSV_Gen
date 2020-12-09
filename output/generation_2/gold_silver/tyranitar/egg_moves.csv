@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Focus Energy,Normal,status,-,-
+Outrage,Dragon,physical,120,100
+Pursuit,Dark,physical,40,100
+Stomp,Normal,physical,65,100

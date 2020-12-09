@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Destiny Bond,Ghost,status,-,-
+Pain Split,Normal,status,-,-
+Psybeam,Psychic,special,65,100
+Psywave,Psychic,special,-,80
+Screech,Normal,status,-,85
+Will-O-Wisp,Fire,status,-,85

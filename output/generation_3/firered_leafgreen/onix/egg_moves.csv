@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Block,Normal,status,-,-
+Explosion,Normal,physical,250,100
+Flail,Normal,physical,-,100
+Rock Slide,Rock,physical,75,90

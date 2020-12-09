@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+12,Bite,Dark,physical,60,60
+17,Pay Day,Normal,physical,40,40
+24,Screech,Normal,status,-,-
+33,Fury Swipes,Normal,physical,18,18
+44,Slash,Normal,physical,70,70

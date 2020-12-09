@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+4,Tail Whip,Normal,status,-,-
+7,Bubble,Water,special,40,40
+10,Withdraw,Water,status,-,-
+13,Water Gun,Water,special,40,40
+18,Bite,Dark,physical,60,60
+23,Rapid Spin,Normal,physical,20,20
+28,Protect,Normal,status,-,-
+33,Rain Dance,Water,status,-,-
+40,Skull Bash,Normal,physical,130,130
+47,Hydro Pump,Water,special,110,110

@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Charm,Fairy,status,-,100
+Hypnosis,Psychic,status,-,60
+Spite,Ghost,status,-,100

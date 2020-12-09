@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Disable,Normal,status,-,-
+1,Hypnosis,Psychic,status,-,-
+1,Nightmare,Ghost,status,-,-
+1,Pound,Normal,physical,40,40
+7,Disable,Normal,status,-,-
+11,Confusion,Psychic,special,50,50
+17,Headbutt,Normal,physical,70,70
+21,Poison Gas,Poison,status,-,-
+29,Meditate,Psychic,status,-,-
+35,Psychic,Psychic,special,90,90
+43,Psych Up,Normal,status,-,-
+49,Swagger,Normal,status,-,-
+57,Future Sight,Psychic,special,120,120

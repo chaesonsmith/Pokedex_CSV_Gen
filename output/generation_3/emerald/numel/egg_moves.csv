@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Defense Curl,Normal,status,-,-
+Howl,Normal,status,-,-
+Rollout,Rock,physical,30,90
+Scary Face,Normal,status,-,100
+Stomp,Normal,physical,65,100

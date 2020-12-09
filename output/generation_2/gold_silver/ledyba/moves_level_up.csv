@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+8,Supersonic,Normal,status,-,-
+15,Comet Punch,Normal,physical,18,18
+22,Light Screen,Psychic,status,-,-
+22,Reflect,Psychic,status,-,-
+22,Safeguard,Normal,status,-,-
+29,Baton Pass,Normal,status,-,-
+36,Swift,Normal,special,60,60
+43,Agility,Psychic,status,-,-
+50,Double-Edge,Normal,physical,120,120

@@ -1,0 +1,16 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Defense Curl,Normal,status,-,-
+Double-Edge,Normal,physical,120,100
+Dream Eater,Psychic,special,100,100
+Endure,Normal,status,-,-
+Explosion,Normal,physical,250,100
+Mimic,Normal,status,-,-
+Psych Up,Normal,status,-,-
+Rock Slide,Rock,physical,75,90
+Rollout,Rock,physical,30,90
+Sleep Talk,Normal,status,-,-
+Snore,Normal,special,50,100
+Substitute,Normal,status,-,-
+Swagger,Normal,status,-,85
+Swift,Normal,special,60,∞

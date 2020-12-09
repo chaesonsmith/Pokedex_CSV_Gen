@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble,Water,special,40,40
+1,Hypnosis,Psychic,status,-,-
+1,Water Gun,Water,special,40,40
+16,Hypnosis,Psychic,status,-,-
+19,Water Gun,Water,special,40,40
+26,Double Slap,Normal,physical,15,15
+33,Body Slam,Normal,physical,85,85
+41,Amnesia,Psychic,status,-,-
+49,Hydro Pump,Water,special,110,110

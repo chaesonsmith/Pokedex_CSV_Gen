@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+10,Absorb,Grass,special,20,20
+13,Gust,Flying,special,40,40
+17,Stun Spore,Grass,status,-,-
+20,Morning Sun,Normal,status,-,-
+24,Mega Drain,Grass,special,40,40
+27,Whirlwind,Normal,status,-,-
+31,Attract,Normal,status,-,-
+34,Silver Wind,Bug,special,60,60
+38,Giga Drain,Grass,special,75,75

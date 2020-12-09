@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Bide,Normal,physical,-,-
+Flail,Normal,physical,-,100
+Harden,Normal,status,-,-

@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bind,Normal,physical,15,15
+1,Constrict,Normal,physical,10,10
+29,Absorb,Grass,special,20,20
+32,Poison Powder,Poison,status,-,-
+36,Stun Spore,Grass,status,-,-
+39,Sleep Powder,Grass,status,-,-
+45,Slam,Normal,physical,80,80
+49,Growth,Normal,status,-,-

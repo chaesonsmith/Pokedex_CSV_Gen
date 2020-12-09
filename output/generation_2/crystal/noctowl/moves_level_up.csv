@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Foresight,Normal,status,-,-
+1,Growl,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+1,Tackle,Normal,physical,40,40
+6,Foresight,Normal,status,-,-
+11,Peck,Flying,physical,35,35
+16,Hypnosis,Psychic,status,-,-
+25,Reflect,Psychic,status,-,-
+33,Take Down,Normal,physical,90,90
+41,Confusion,Psychic,special,50,50
+57,Dream Eater,Psychic,special,100,100

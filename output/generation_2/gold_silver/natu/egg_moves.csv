@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Drill Peck,Flying,physical,80,100
+Feint Attack,Dark,physical,60,∞
+Haze,Ice,status,-,-
+Quick Attack,Normal,physical,40,100
+Steel Wing,Steel,physical,70,90

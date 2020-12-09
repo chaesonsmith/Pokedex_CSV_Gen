@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bone Club,Ground,physical,65,65
+1,Tail Whip,Normal,status,-,-
+10,Bone Club,Ground,physical,65,65
+13,Tail Whip,Normal,status,-,-
+18,Headbutt,Normal,physical,70,70
+25,Leer,Normal,status,-,-
+33,Focus Energy,Normal,status,-,-
+41,Thrash,Normal,physical,120,120
+48,Bonemerang,Ground,physical,50,50
+55,Rage,Normal,physical,20,20

@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Barrier,Psychic,status,-,-
+1,Confusion,Psychic,special,50,50
+15,Confusion,Psychic,special,50,50
+23,Light Screen,Psychic,status,-,-
+31,Double Slap,Normal,physical,15,15
+39,Meditate,Psychic,status,-,-
+47,Substitute,Normal,status,-,-

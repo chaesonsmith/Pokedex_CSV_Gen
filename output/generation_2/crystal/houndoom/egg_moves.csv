@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Beat Up,Dark,physical,-,100
+Counter,Fighting,physical,-,100
+Fire Spin,Fire,special,35,85
+Pursuit,Dark,physical,40,100
+Rage,Normal,physical,20,100
+Reversal,Fighting,physical,-,100
+Spite,Ghost,status,-,100

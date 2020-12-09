@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Pursuit,Dark,physical,40,100
+Substitute,Normal,status,-,-
+Tickle,Normal,status,-,100
+Trick,Psychic,status,-,100

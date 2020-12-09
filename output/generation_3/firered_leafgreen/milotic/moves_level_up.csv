@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Water Gun,Water,special,40,40
+5,Wrap,Normal,physical,15,15
+10,Water Sport,Water,status,-,-
+15,Refresh,Normal,status,-,-
+20,Water Pulse,Water,special,60,60
+25,Twister,Dragon,special,40,40
+30,Recover,Normal,status,-,-
+35,Rain Dance,Water,status,-,-
+40,Hydro Pump,Water,special,110,110
+45,Attract,Normal,status,-,-
+50,Safeguard,Normal,status,-,-

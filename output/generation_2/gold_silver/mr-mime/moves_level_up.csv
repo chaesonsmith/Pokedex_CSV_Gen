@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Barrier,Psychic,status,-,-
+6,Confusion,Psychic,special,50,50
+11,Substitute,Normal,status,-,-
+16,Meditate,Psychic,status,-,-
+21,Double Slap,Normal,physical,15,15
+26,Light Screen,Psychic,status,-,-
+26,Reflect,Psychic,status,-,-
+31,Encore,Normal,status,-,-
+36,Psybeam,Psychic,special,65,65
+41,Baton Pass,Normal,status,-,-
+46,Safeguard,Normal,status,-,-

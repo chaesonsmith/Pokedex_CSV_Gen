@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ember,Fire,special,40,40
+1,Wing Attack,Flying,physical,60,60
+13,Fire Spin,Fire,special,35,35
+25,Agility,Psychic,status,-,-
+37,Endure,Normal,status,-,-
+49,Flamethrower,Fire,special,90,90
+61,Safeguard,Normal,status,-,-
+73,Sky Attack,Flying,physical,140,140

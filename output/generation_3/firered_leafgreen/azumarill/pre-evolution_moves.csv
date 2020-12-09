@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Bubble,Water,special,40,100,Level up
+Charm,Fairy,status,-,100,Level up
+Slam,Normal,physical,80,75,Level up
+Splash,Normal,status,-,-,Level up

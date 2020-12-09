@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+5,Leech Life,Bug,physical,80,80
+9,Sand Attack,Ground,status,-,-
+14,Fury Swipes,Normal,physical,18,18
+19,Mind Reader,Normal,status,-,-
+25,False Swipe,Normal,physical,40,40
+31,Mud-Slap,Ground,special,20,20
+38,Metal Claw,Steel,physical,50,50
+45,Dig,Ground,physical,80,80

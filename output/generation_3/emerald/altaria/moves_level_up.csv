@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Astonish,Ghost,physical,30,30
+1,Growl,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+1,Sing,Normal,status,-,-
+8,Astonish,Ghost,physical,30,30
+11,Sing,Normal,status,-,-
+18,Fury Attack,Normal,physical,15,15
+21,Safeguard,Normal,status,-,-
+28,Mist,Ice,status,-,-
+31,Take Down,Normal,physical,90,90
+35,Dragon Breath,Dragon,special,60,60
+40,Dragon Dance,Dragon,status,-,-
+45,Refresh,Normal,status,-,-
+54,Perish Song,Normal,status,-,-
+59,Sky Attack,Flying,physical,140,140

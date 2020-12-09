@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Assist,Normal,status,-,-
+Baton Pass,Normal,status,-,-
+Disable,Normal,status,-,100
+Encore,Normal,status,-,100
+Rock Slide,Rock,physical,75,90
+Smelling Salts,Normal,physical,70,100
+Trick,Psychic,status,-,100
+Wish,Normal,status,-,-

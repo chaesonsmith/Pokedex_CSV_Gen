@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Fury Swipes,Normal,physical,18,18
+1,Leer,Normal,status,-,-
+1,Lick,Ghost,physical,30,30
+1,Scratch,Normal,physical,40,40
+8,Lick,Ghost,physical,30,30
+15,Fury Swipes,Normal,physical,18,18
+22,Feint Attack,Dark,physical,60,60
+29,Rest,Psychic,status,-,-
+39,Slash,Normal,physical,70,70
+49,Snore,Normal,special,50,50
+59,Thrash,Normal,physical,120,120

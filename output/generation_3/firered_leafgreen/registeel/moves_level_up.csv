@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Explosion,Normal,physical,250,250
+9,Metal Claw,Steel,physical,50,50
+17,Curse,Ghost,status,-,-
+25,Superpower,Fighting,physical,120,120
+33,Ancient Power,Rock,special,60,60
+41,Amnesia,Psychic,status,-,-
+41,Iron Defense,Steel,status,-,-
+49,Zap Cannon,Electric,special,120,120
+57,Lock-On,Normal,status,-,-
+65,Hyper Beam,Normal,special,150,150

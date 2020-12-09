@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Aurora Beam,Ice,special,65,100
+Haze,Ice,status,-,-
+Mirror Coat,Psychic,special,-,100
+Rapid Spin,Normal,physical,20,100
+Safeguard,Normal,status,-,-

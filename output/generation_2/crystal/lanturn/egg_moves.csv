@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Flail,Normal,physical,-,100
+Screech,Normal,status,-,85
+Supersonic,Normal,status,-,55

@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Drill Peck,Flying,physical,80,100
+Feather Dance,Flying,status,-,100
+Feint Attack,Dark,physical,60,∞
+Haze,Ice,status,-,-
+Psych Up,Normal,status,-,-
+Quick Attack,Normal,physical,40,100
+Refresh,Normal,status,-,-
+Steel Wing,Steel,physical,70,90

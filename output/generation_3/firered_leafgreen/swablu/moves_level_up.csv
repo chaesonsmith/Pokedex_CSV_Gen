@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+8,Astonish,Ghost,physical,30,30
+11,Sing,Normal,status,-,-
+18,Fury Attack,Normal,physical,15,15
+21,Safeguard,Normal,status,-,-
+28,Mist,Ice,status,-,-
+31,Take Down,Normal,physical,90,90
+38,Mirror Move,Flying,status,-,-
+41,Refresh,Normal,status,-,-
+48,Perish Song,Normal,status,-,-

@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Water Gun,Water,special,40,40
+7,Supersonic,Normal,status,-,-
+13,Wing Attack,Flying,physical,60,60
+21,Mist,Ice,status,-,-
+31,Quick Attack,Normal,physical,40,40
+43,Pursuit,Dark,physical,40,40
+55,Agility,Psychic,status,-,-

@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Beat Up,Dark,physical,-,100
+Counter,Fighting,physical,-,100
+Foresight,Normal,status,-,-
+Meditate,Psychic,status,-,-
+Reversal,Fighting,physical,-,100
+Rock Slide,Rock,physical,75,90

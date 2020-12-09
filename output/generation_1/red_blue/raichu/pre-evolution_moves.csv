@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Agility,Psychic,status,-,-,Level up
+Quick Attack,Normal,physical,40,100,Level up
+Swift,Normal,special,60,∞,Level up
+Thunder,Electric,special,110,70,Level up

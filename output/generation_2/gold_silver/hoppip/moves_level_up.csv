@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Splash,Normal,status,-,-
+1,Synthesis,Grass,status,-,-
+5,Tail Whip,Normal,status,-,-
+10,Tackle,Normal,physical,40,40
+13,Poison Powder,Poison,status,-,-
+15,Stun Spore,Grass,status,-,-
+17,Sleep Powder,Grass,status,-,-
+20,Leech Seed,Grass,status,-,-
+25,Cotton Spore,Grass,status,-,-
+30,Mega Drain,Grass,special,40,40

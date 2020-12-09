@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+False Swipe,Normal,physical,40,100
+Feint Attack,Dark,physical,60,∞
+Quick Attack,Normal,physical,40,100
+Scary Face,Normal,status,-,100
+Tri Attack,Normal,special,80,100

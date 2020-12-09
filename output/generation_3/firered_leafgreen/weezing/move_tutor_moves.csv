@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Explosion,Normal,physical,250,100
+Mimic,Normal,status,-,-
+Substitute,Normal,status,-,-

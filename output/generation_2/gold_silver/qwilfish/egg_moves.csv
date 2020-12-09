@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Bubble Beam,Water,special,65,100
+Flail,Normal,physical,-,100
+Haze,Ice,status,-,-
+Supersonic,Normal,status,-,55

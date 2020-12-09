@@ -1,0 +1,5 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Quick Attack,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+1,Thunder Shock,Electric,special,40,40
+1,Thunderbolt,Electric,special,90,90

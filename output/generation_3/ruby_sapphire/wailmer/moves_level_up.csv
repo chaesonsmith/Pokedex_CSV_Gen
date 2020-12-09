@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Splash,Normal,status,-,-
+5,Growl,Normal,status,-,-
+10,Water Gun,Water,special,40,40
+14,Rollout,Rock,physical,30,30
+19,Whirlpool,Water,special,35,35
+23,Astonish,Ghost,physical,30,30
+28,Water Pulse,Water,special,60,60
+32,Mist,Ice,status,-,-
+37,Rest,Psychic,status,-,-
+41,Water Spout,Water,special,150,150
+46,Amnesia,Psychic,status,-,-
+50,Hydro Pump,Water,special,110,110

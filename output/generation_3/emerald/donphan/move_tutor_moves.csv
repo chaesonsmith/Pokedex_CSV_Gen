@@ -1,0 +1,14 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Counter,Fighting,physical,-,100
+Defense Curl,Normal,status,-,-
+Double-Edge,Normal,physical,120,100
+Endure,Normal,status,-,-
+Mimic,Normal,status,-,-
+Mud-Slap,Ground,special,20,100
+Rock Slide,Rock,physical,75,90
+Rollout,Rock,physical,30,90
+Sleep Talk,Normal,status,-,-
+Snore,Normal,special,50,100
+Substitute,Normal,status,-,-
+Swagger,Normal,status,-,85

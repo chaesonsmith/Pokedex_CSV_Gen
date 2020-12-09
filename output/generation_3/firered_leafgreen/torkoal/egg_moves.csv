@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Endure,Normal,status,-,-
+Eruption,Fire,special,150,100
+Sleep Talk,Normal,status,-,-
+Yawn,Normal,status,-,-

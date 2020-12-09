@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Fake Out,Normal,physical,40,100
+Ice Punch,Ice,physical,75,100
+Meditate,Psychic,status,-,-
+Psych Up,Normal,status,-,-
+Wish,Normal,status,-,-

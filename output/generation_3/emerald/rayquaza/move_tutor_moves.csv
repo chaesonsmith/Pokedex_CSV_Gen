@@ -1,0 +1,16 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Double-Edge,Normal,physical,120,100
+Endure,Normal,status,-,-
+Fury Cutter,Bug,physical,40,95
+Icy Wind,Ice,special,55,95
+Mimic,Normal,status,-,-
+Mud-Slap,Ground,special,20,100
+Psych Up,Normal,status,-,-
+Rock Slide,Rock,physical,75,90
+Sleep Talk,Normal,status,-,-
+Snore,Normal,special,50,100
+Substitute,Normal,status,-,-
+Swagger,Normal,status,-,85
+Swift,Normal,special,60,∞
+Thunder Wave,Electric,status,-,90

@@ -1,0 +1,7 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+34,Absorb,Grass,special,20,20
+39,Slash,Normal,physical,70,70
+44,Leer,Normal,status,-,-
+49,Hydro Pump,Water,special,110,110

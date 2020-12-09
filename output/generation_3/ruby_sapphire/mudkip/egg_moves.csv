@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Curse,Ghost,status,-,-
+Ice Ball,Ice,physical,30,90
+Mirror Coat,Psychic,special,-,100
+Refresh,Normal,status,-,-
+Stomp,Normal,physical,65,100
+Uproar,Normal,special,90,100

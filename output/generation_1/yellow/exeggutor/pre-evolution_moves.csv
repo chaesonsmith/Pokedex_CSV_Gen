@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.,Method
+Leech Seed,Grass,status,-,90,Level up
+Poison Powder,Poison,status,-,75,Level up
+Reflect,Psychic,status,-,-,Level up
+Sleep Powder,Grass,status,-,75,Level up
+Solar Beam,Grass,special,120,100,Level up
+Stun Spore,Grass,status,-,75,Level up

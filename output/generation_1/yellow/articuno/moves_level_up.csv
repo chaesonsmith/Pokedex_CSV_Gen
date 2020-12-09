@@ -1,0 +1,6 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ice Beam,Ice,special,90,90
+1,Peck,Flying,physical,35,35
+51,Blizzard,Ice,special,110,110
+55,Agility,Psychic,status,-,-
+60,Mist,Ice,status,-,-

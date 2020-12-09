@@ -1,0 +1,17 @@
+TM,Move,Type,Cat.,Power,Acc.
+01,Focus Punch,Fighting,physical,150,150
+06,Toxic,Poison,status,-,-
+09,Bullet Seed,Grass,physical,25,25
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+17,Protect,Normal,status,-,-
+19,Giga Drain,Grass,special,75,75
+21,Frustration,Normal,physical,-,-
+22,Solar Beam,Grass,special,120,120
+27,Return,Normal,physical,-,-
+32,Double Team,Normal,status,-,-
+37,Sandstorm,Rock,status,-,-
+42,Facade,Normal,physical,70,70
+43,Secret Power,Normal,physical,70,70
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-

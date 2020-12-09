@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Beat Up,Dark,physical,-,100
+Feint Attack,Dark,physical,60,∞
+Pursuit,Dark,physical,40,100
+Screech,Normal,status,-,85

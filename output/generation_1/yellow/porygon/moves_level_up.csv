@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Conversion,Normal,status,-,-
+1,Sharpen,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+23,Psybeam,Psychic,special,65,65
+28,Recover,Normal,status,-,-
+35,Agility,Psychic,status,-,-
+42,Tri Attack,Normal,special,80,80

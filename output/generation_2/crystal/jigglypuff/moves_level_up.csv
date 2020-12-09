@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Sing,Normal,status,-,-
+4,Defense Curl,Normal,status,-,-
+9,Pound,Normal,physical,40,40
+14,Disable,Normal,status,-,-
+19,Rollout,Rock,physical,30,30
+24,Double Slap,Normal,physical,15,15
+29,Rest,Psychic,status,-,-
+34,Body Slam,Normal,physical,85,85
+39,Double-Edge,Normal,physical,120,120

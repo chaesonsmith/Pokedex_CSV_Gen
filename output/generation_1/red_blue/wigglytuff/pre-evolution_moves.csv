@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Body Slam,Normal,physical,85,100,Level up
+Double-Edge,Normal,physical,120,100,Level up
+Pound,Normal,physical,40,100,Level up
+Rest,Psychic,status,-,-,Level up

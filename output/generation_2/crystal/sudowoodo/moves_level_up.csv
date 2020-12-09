@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Mimic,Normal,status,-,-
+1,Rock Throw,Rock,physical,50,50
+10,Flail,Normal,physical,-,-
+19,Low Kick,Fighting,physical,-,-
+28,Rock Slide,Rock,physical,75,75
+37,Feint Attack,Dark,physical,60,60
+46,Slam,Normal,physical,80,80

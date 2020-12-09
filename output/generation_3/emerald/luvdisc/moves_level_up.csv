@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+4,Charm,Fairy,status,-,-
+12,Water Gun,Water,special,40,40
+16,Agility,Psychic,status,-,-
+24,Take Down,Normal,physical,90,90
+28,Attract,Normal,status,-,-
+36,Sweet Kiss,Fairy,status,-,-
+40,Flail,Normal,physical,-,-
+48,Safeguard,Normal,status,-,-

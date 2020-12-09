@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Headbutt,Normal,physical,70,70
+9,Growl,Normal,status,-,-
+17,Icy Wind,Ice,special,55,55
+21,Aurora Beam,Ice,special,65,65
+29,Rest,Psychic,status,-,-
+37,Take Down,Normal,physical,90,90
+41,Ice Beam,Ice,special,90,90
+49,Safeguard,Normal,status,-,-

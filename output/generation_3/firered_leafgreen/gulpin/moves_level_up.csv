@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Pound,Normal,physical,40,40
+6,Yawn,Normal,status,-,-
+9,Poison Gas,Poison,status,-,-
+14,Sludge,Poison,special,65,65
+17,Amnesia,Psychic,status,-,-
+23,Encore,Normal,status,-,-
+28,Toxic,Poison,status,-,-
+34,Spit Up,Normal,special,-,-
+34,Stockpile,Normal,status,-,-
+34,Swallow,Normal,status,-,-
+39,Sludge Bomb,Poison,special,90,90

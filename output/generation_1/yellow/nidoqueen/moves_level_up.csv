@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Body Slam,Normal,physical,85,85
+1,Scratch,Normal,physical,40,40
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+8,Scratch,Normal,physical,40,40
+12,Double Kick,Fighting,physical,30,30
+23,Body Slam,Normal,physical,85,85

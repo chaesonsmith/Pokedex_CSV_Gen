@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Astonish,Ghost,physical,30,100
+Explosion,Normal,physical,250,100
+Grudge,Ghost,status,-,-
+Haze,Ice,status,-,-
+Perish Song,Normal,status,-,-
+Psywave,Psychic,special,-,80
+Will-O-Wisp,Fire,status,-,85

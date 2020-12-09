@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Baton Pass,Normal,status,-,-
+Dynamic Punch,Fighting,physical,100,50
+Fake Out,Normal,physical,40,100
+Fire Punch,Fire,physical,75,100
+Foresight,Normal,status,-,-
+Ice Punch,Ice,physical,75,100
+Thunder Punch,Electric,physical,75,100

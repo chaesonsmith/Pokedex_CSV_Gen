@@ -1,0 +1,36 @@
+TM,Move,Type,Cat.,Power,Acc.
+01,Dynamic Punch,Fighting,physical,100,100
+02,Headbutt,Normal,physical,70,70
+03,Curse,Ghost,status,-,-
+04,Rollout,Rock,physical,30,30
+06,Toxic,Poison,status,-,-
+07,Zap Cannon,Electric,special,120,120
+08,Rock Smash,Fighting,physical,40,40
+09,Psych Up,Normal,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+12,Sweet Scent,Normal,status,-,-
+13,Snore,Normal,special,50,50
+14,Blizzard,Ice,special,110,110
+15,Hyper Beam,Normal,special,150,150
+16,Icy Wind,Ice,special,55,55
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+20,Endure,Normal,status,-,-
+21,Frustration,Normal,physical,-,-
+23,Iron Tail,Steel,physical,100,100
+25,Thunder,Electric,special,110,110
+26,Earthquake,Ground,physical,100,100
+27,Return,Normal,physical,-,-
+30,Shadow Ball,Ghost,special,80,80
+31,Mud-Slap,Ground,special,20,20
+32,Double Team,Normal,status,-,-
+33,Ice Punch,Ice,physical,75,75
+34,Swagger,Normal,status,-,-
+35,Sleep Talk,Normal,status,-,-
+37,Sandstorm,Rock,status,-,-
+40,Defense Curl,Normal,status,-,-
+41,Thunder Punch,Electric,physical,75,75
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-
+48,Fire Punch,Fire,physical,75,75

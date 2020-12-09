@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+4,Growl,Normal,status,-,-
+8,Tail Whip,Normal,status,-,-
+13,Ember,Fire,special,40,40
+19,Stomp,Normal,physical,65,65
+26,Fire Spin,Fire,special,35,35
+34,Take Down,Normal,physical,90,90
+43,Agility,Psychic,status,-,-
+53,Fire Blast,Fire,special,110,110

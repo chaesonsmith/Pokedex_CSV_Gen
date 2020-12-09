@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Flail,Normal,physical,-,100
+Pin Missile,Bug,physical,25,95
+Reflect,Psychic,status,-,-
+Swift,Normal,special,60,∞

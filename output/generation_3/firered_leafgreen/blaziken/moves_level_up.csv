@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ember,Fire,special,40,40
+1,Fire Punch,Fire,physical,75,75
+1,Focus Energy,Normal,status,-,-
+1,Growl,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+7,Focus Energy,Normal,status,-,-
+13,Ember,Fire,special,40,40
+16,Double Kick,Fighting,physical,30,30
+17,Peck,Flying,physical,35,35
+21,Sand Attack,Ground,status,-,-
+28,Bulk Up,Fighting,status,-,-
+32,Quick Attack,Normal,physical,40,40
+36,Blaze Kick,Fire,physical,85,85
+42,Slash,Normal,physical,70,70
+49,Mirror Move,Flying,status,-,-
+59,Sky Uppercut,Fighting,physical,85,85

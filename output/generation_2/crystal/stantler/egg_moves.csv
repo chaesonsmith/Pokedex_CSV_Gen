@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Bite,Dark,physical,60,100
+Disable,Normal,status,-,100
+Light Screen,Psychic,status,-,-
+Reflect,Psychic,status,-,-
+Spite,Ghost,status,-,100

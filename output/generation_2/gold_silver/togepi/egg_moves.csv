@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Foresight,Normal,status,-,-
+Future Sight,Psychic,special,120,100
+Mirror Move,Flying,status,-,-
+Peck,Flying,physical,35,100
+Present,Normal,physical,-,90

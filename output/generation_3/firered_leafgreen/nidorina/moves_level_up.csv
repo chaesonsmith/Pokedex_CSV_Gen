@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+8,Tail Whip,Normal,status,-,-
+12,Double Kick,Fighting,physical,30,30
+18,Poison Sting,Poison,physical,15,15
+22,Bite,Dark,physical,60,60
+26,Helping Hand,Normal,status,-,-
+34,Fury Swipes,Normal,physical,18,18
+43,Flatter,Dark,status,-,-
+53,Crunch,Dark,physical,80,80

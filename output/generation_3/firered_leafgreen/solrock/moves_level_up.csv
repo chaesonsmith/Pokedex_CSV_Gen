@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+7,Confusion,Psychic,special,50,50
+13,Rock Throw,Rock,physical,50,50
+19,Fire Spin,Fire,special,35,35
+25,Psywave,Psychic,special,-,-
+31,Cosmic Power,Psychic,status,-,-
+37,Rock Slide,Rock,physical,75,75
+43,Solar Beam,Grass,special,120,120
+49,Explosion,Normal,physical,250,250

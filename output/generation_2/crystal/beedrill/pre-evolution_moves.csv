@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Harden,Normal,status,-,-,Level up
+Poison Sting,Poison,physical,15,100,Level up
+String Shot,Bug,status,-,95,Level up

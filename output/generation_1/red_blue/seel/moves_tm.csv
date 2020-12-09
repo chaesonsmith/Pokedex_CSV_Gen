@@ -1,0 +1,18 @@
+TM,Move,Type,Cat.,Power,Acc.
+06,Toxic,Poison,status,-,-
+07,Horn Drill,Normal,physical,-,-
+08,Body Slam,Normal,physical,85,85
+09,Take Down,Normal,physical,90,90
+10,Double-Edge,Normal,physical,120,120
+11,Bubble Beam,Water,special,65,65
+12,Water Gun,Water,special,40,40
+13,Ice Beam,Ice,special,90,90
+14,Blizzard,Ice,special,110,110
+16,Pay Day,Normal,physical,40,40
+20,Rage,Normal,physical,20,20
+31,Mimic,Normal,status,-,-
+32,Double Team,Normal,status,-,-
+34,Bide,Normal,physical,-,-
+40,Skull Bash,Normal,physical,130,130
+44,Rest,Psychic,status,-,-
+50,Substitute,Normal,status,-,-

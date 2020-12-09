@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Double-Edge,Normal,physical,120,100
+Mimic,Normal,status,-,-
+Rock Slide,Rock,physical,75,90
+Substitute,Normal,status,-,-

@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Double-Edge,Normal,physical,120,100
+Mimic,Normal,status,-,-
+Substitute,Normal,status,-,-

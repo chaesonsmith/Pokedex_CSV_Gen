@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leech Life,Bug,physical,80,80
+1,Scratch,Normal,physical,40,40
+1,Stun Spore,Grass,status,-,-
+13,Stun Spore,Grass,status,-,-
+20,Leech Life,Bug,physical,80,80
+30,Spore,Grass,status,-,-
+39,Slash,Normal,physical,70,70
+48,Growth,Normal,status,-,-

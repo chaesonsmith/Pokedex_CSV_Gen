@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Bide,Normal,physical,-,-
+False Swipe,Normal,physical,40,100
+Flail,Normal,physical,-,100
+Harden,Normal,status,-,-

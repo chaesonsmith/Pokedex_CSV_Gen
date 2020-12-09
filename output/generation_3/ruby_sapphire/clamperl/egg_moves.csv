@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Barrier,Psychic,status,-,-
+Body Slam,Normal,physical,85,100
+Confuse Ray,Ghost,status,-,100
+Mud Sport,Ground,status,-,-
+Refresh,Normal,status,-,-
+Supersonic,Normal,status,-,55

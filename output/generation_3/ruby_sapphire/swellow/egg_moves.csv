@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Mirror Move,Flying,status,-,-
+Pursuit,Dark,physical,40,100
+Rage,Normal,physical,20,100
+Refresh,Normal,status,-,-
+Sky Attack,Flying,physical,140,90
+Supersonic,Normal,status,-,55

@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Water Gun,Water,special,40,40
+11,Lock-On,Normal,status,-,-
+22,Aurora Beam,Ice,special,65,65
+22,Bubble Beam,Water,special,65,65
+22,Psybeam,Psychic,special,65,65
+33,Focus Energy,Normal,status,-,-
+44,Ice Beam,Ice,special,90,90
+55,Hyper Beam,Normal,special,150,150

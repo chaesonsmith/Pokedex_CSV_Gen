@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+5,Growth,Normal,status,-,-
+9,Poison Sting,Poison,physical,15,15
+13,Stun Spore,Grass,status,-,-
+17,Mega Drain,Grass,special,40,40
+21,Leech Seed,Grass,status,-,-
+25,Magical Leaf,Grass,special,60,60
+29,Grass Whistle,Grass,status,-,-
+33,Giga Drain,Grass,special,75,75
+37,Sweet Scent,Normal,status,-,-
+41,Ingrain,Grass,status,-,-
+45,Toxic,Poison,status,-,-
+49,Petal Dance,Grass,special,120,120
+53,Aromatherapy,Grass,status,-,-
+57,Synthesis,Grass,status,-,-

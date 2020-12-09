@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Heal Bell,Normal,status,-,-
+1,Leech Seed,Grass,status,-,-
+1,Recover,Normal,status,-,-
+10,Safeguard,Normal,status,-,-
+20,Ancient Power,Rock,special,60,60
+30,Future Sight,Psychic,special,120,120
+40,Baton Pass,Normal,status,-,-
+50,Perish Song,Normal,status,-,-

@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Beat Up,Dark,physical,-,100
+Foresight,Normal,status,-,-
+Future Sight,Psychic,special,120,100
+Take Down,Normal,physical,90,85

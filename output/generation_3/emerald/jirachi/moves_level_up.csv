@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Wish,Normal,status,-,-
+5,Rest,Psychic,status,-,-
+10,Swift,Normal,special,60,60
+15,Helping Hand,Normal,status,-,-
+20,Psychic,Psychic,special,90,90
+25,Refresh,Normal,status,-,-
+30,Rest,Psychic,status,-,-
+35,Double-Edge,Normal,physical,120,120
+40,Future Sight,Psychic,special,120,120
+45,Cosmic Power,Psychic,status,-,-
+50,Doom Desire,Steel,special,140,140

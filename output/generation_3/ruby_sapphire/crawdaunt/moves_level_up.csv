@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble,Water,special,40,40
+1,Harden,Normal,status,-,-
+1,Leer,Normal,status,-,-
+1,Vice Grip,Normal,physical,55,55
+7,Harden,Normal,status,-,-
+10,Vice Grip,Normal,physical,55,55
+13,Leer,Normal,status,-,-
+20,Bubble Beam,Water,special,65,65
+23,Protect,Normal,status,-,-
+26,Knock Off,Dark,physical,65,65
+34,Taunt,Dark,status,-,-
+39,Crabhammer,Water,physical,100,100
+44,Swords Dance,Normal,status,-,-
+52,Guillotine,Normal,physical,-,-

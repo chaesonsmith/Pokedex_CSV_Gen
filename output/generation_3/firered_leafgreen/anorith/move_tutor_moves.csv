@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Double-Edge,Normal,physical,120,100
+Mimic,Normal,status,-,-
+Rock Slide,Rock,physical,75,90
+Substitute,Normal,status,-,-
+Swords Dance,Normal,status,-,-

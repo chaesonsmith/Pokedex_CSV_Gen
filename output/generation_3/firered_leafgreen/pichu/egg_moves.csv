@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Bide,Normal,physical,-,-
+Charge,Electric,status,-,-
+Double Slap,Normal,physical,15,85
+Encore,Normal,status,-,100
+Present,Normal,physical,-,90
+Reversal,Fighting,physical,-,100
+Wish,Normal,status,-,-

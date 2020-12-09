@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Drill Peck,Flying,physical,80,100
+Mirror Move,Flying,status,-,-
+Quick Attack,Normal,physical,40,100
+Sky Attack,Flying,physical,140,90
+Whirlwind,Normal,status,-,-
+Wing Attack,Flying,physical,60,100

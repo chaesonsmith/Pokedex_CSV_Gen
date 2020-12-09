@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Scary Face,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+4,Tail Whip,Normal,status,-,-
+8,Charm,Fairy,status,-,-
+13,Bite,Dark,physical,60,60
+19,Lick,Ghost,physical,30,30
+26,Roar,Normal,status,-,-
+34,Rage,Normal,physical,20,20
+43,Take Down,Normal,physical,90,90

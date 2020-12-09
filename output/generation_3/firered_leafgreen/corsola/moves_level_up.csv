@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+6,Harden,Normal,status,-,-
+12,Bubble,Water,special,40,40
+17,Recover,Normal,status,-,-
+17,Refresh,Normal,status,-,-
+23,Bubble Beam,Water,special,65,65
+28,Spike Cannon,Normal,physical,20,20
+34,Rock Blast,Rock,physical,25,25
+39,Mirror Coat,Psychic,special,-,-
+45,Ancient Power,Rock,special,60,60

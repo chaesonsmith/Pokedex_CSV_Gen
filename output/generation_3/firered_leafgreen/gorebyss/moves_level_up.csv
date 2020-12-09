@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Whirlpool,Water,special,35,35
+8,Confusion,Psychic,special,50,50
+15,Agility,Psychic,status,-,-
+22,Water Pulse,Water,special,60,60
+29,Amnesia,Psychic,status,-,-
+36,Psychic,Psychic,special,90,90
+43,Baton Pass,Normal,status,-,-
+50,Hydro Pump,Water,special,110,110

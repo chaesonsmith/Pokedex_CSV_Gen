@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Barrier,Psychic,status,-,-
+Bubble Beam,Water,special,65,100
+Icicle Spear,Ice,physical,25,100
+Rapid Spin,Normal,physical,20,100
+Screech,Normal,status,-,85
+Take Down,Normal,physical,90,85

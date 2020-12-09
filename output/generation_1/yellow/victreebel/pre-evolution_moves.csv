@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Growth,Normal,status,-,-,Level up
+Slam,Normal,physical,80,75,Level up
+Vine Whip,Grass,physical,45,100,Level up

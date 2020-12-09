@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Splash,Normal,status,-,-
+7,Psywave,Psychic,special,-,-
+10,Odor Sleuth,Normal,status,-,-
+16,Psybeam,Psychic,special,65,65
+19,Psych Up,Normal,status,-,-
+25,Confuse Ray,Ghost,status,-,-
+28,Magic Coat,Psychic,status,-,-
+34,Psychic,Psychic,special,90,90
+37,Rest,Psychic,status,-,-
+37,Snore,Normal,special,50,50
+43,Bounce,Flying,physical,85,85

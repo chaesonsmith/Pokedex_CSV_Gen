@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Supersonic,Normal,status,-,-
+1,Wrap,Normal,physical,15,15
+7,Stomp,Normal,physical,65,65
+15,Disable,Normal,status,-,-
+23,Defense Curl,Normal,status,-,-
+31,Slam,Normal,physical,80,80
+39,Screech,Normal,status,-,-

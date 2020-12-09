@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+4,Focus Energy,Normal,status,-,-
+8,Quick Attack,Normal,physical,40,40
+13,Wing Attack,Flying,physical,60,60
+19,Double Team,Normal,status,-,-
+26,Endeavor,Normal,physical,-,-
+34,Aerial Ace,Flying,physical,60,60
+43,Agility,Psychic,status,-,-

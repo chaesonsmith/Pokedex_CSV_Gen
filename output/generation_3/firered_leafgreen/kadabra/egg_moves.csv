@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Barrier,Psychic,status,-,-
+Encore,Normal,status,-,100
+Fire Punch,Fire,physical,75,100
+Ice Punch,Ice,physical,75,100
+Knock Off,Dark,physical,65,100
+Thunder Punch,Electric,physical,75,100

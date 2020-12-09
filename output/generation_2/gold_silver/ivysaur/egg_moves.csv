@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Light Screen,Psychic,status,-,-
+Petal Dance,Grass,special,120,100
+Razor Wind,Normal,special,80,100
+Safeguard,Normal,status,-,-
+Skull Bash,Normal,physical,130,100

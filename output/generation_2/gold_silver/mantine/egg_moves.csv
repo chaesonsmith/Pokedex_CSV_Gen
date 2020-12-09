@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Haze,Ice,status,-,-
+Hydro Pump,Water,special,110,80
+Slam,Normal,physical,80,75
+Twister,Dragon,special,40,100

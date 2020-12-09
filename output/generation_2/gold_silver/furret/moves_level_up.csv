@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Defense Curl,Normal,status,-,-
+1,Quick Attack,Normal,physical,40,40
+1,Scratch,Normal,physical,40,40
+5,Defense Curl,Normal,status,-,-
+11,Quick Attack,Normal,physical,40,40
+18,Fury Swipes,Normal,physical,18,18
+28,Slam,Normal,physical,80,80
+38,Rest,Psychic,status,-,-
+48,Amnesia,Psychic,status,-,-

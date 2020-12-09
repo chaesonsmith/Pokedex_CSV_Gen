@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+6,Thunder Shock,Electric,special,40,40
+11,Supersonic,Normal,status,-,-
+16,Sonic Boom,Normal,special,-,-
+21,Thunder Wave,Electric,status,-,-
+27,Lock-On,Normal,status,-,-
+33,Swift,Normal,special,60,60
+39,Screech,Normal,status,-,-
+45,Zap Cannon,Electric,special,120,120

@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Psywave,Psychic,special,-,-
+5,Memento,Dark,status,-,-
+10,Helping Hand,Normal,status,-,-
+15,Safeguard,Normal,status,-,-
+20,Dragon Breath,Dragon,special,60,60
+25,Protect,Normal,status,-,-
+30,Refresh,Normal,status,-,-
+35,Luster Purge,Psychic,special,70,70
+40,Psychic,Psychic,special,90,90
+45,Recover,Normal,status,-,-
+50,Dragon Dance,Dragon,status,-,-

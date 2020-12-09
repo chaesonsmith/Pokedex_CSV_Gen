@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+5,Uproar,Normal,special,90,90
+12,Feint Attack,Dark,physical,60,60
+16,Psybeam,Psychic,special,65,65
+23,Hypnosis,Psychic,status,-,-
+27,Dizzy Punch,Normal,physical,70,70
+34,Teeter Dance,Normal,status,-,-
+38,Psych Up,Normal,status,-,-
+45,Double-Edge,Normal,physical,120,120
+49,Flail,Normal,physical,-,-
+56,Thrash,Normal,physical,120,120

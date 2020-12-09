@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+4,Tail Whip,Normal,status,-,-
+8,Rage,Normal,physical,20,20
+13,Horn Attack,Normal,physical,65,65
+19,Scary Face,Normal,status,-,-
+26,Pursuit,Dark,physical,40,40
+34,Rest,Psychic,status,-,-
+43,Thrash,Normal,physical,120,120
+53,Take Down,Normal,physical,90,90

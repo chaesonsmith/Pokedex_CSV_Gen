@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Flail,Normal,physical,-,100
+Rapid Spin,Normal,physical,20,100
+Safeguard,Normal,status,-,-

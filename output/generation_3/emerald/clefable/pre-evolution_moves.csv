@@ -1,0 +1,13 @@
+Move,Type,Cat.,Power,Acc.,Method
+Charm,Fairy,status,-,100,Level up
+Cosmic Power,Psychic,status,-,-,Level up
+Defense Curl,Normal,status,-,-,Level up
+Encore,Normal,status,-,100,Level up
+Follow Me,Normal,status,-,-,Level up
+Growl,Normal,status,-,100,Level up
+Light Screen,Psychic,status,-,-,Level up
+Meteor Mash,Steel,physical,90,90,Level up
+Moonlight,Fairy,status,-,-,Level up
+Pound,Normal,physical,40,100,Level up
+Sweet Kiss,Fairy,status,-,75,Level up
+Icy Wind,Ice,special,55,95,Move tutor

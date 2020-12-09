@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Focus Energy,Normal,status,-,-,Level up
+Growl,Normal,status,-,100,Level up
+Take Down,Normal,physical,90,85,Level up

@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Sand Attack,Ground,status,-,-
+1,Scratch,Normal,physical,40,40
+1,Tri Attack,Normal,special,80,80
+5,Growl,Normal,status,-,-
+9,Magnitude,Ground,physical,-,-
+17,Dig,Ground,physical,80,80
+21,Fury Swipes,Normal,physical,18,18
+25,Mud-Slap,Ground,special,20,20
+26,Sand Tomb,Ground,physical,35,35
+38,Slash,Normal,physical,70,70
+51,Earthquake,Ground,physical,100,100
+64,Fissure,Ground,physical,-,-

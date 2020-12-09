@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Gust,Flying,special,40,40
+1,Leer,Normal,status,-,-
+7,Growth,Normal,status,-,-
+11,Razor Leaf,Grass,physical,55,55
+17,Stomp,Normal,physical,65,65
+21,Sweet Scent,Normal,status,-,-
+27,Whirlwind,Normal,status,-,-
+31,Magical Leaf,Grass,special,60,60
+37,Body Slam,Normal,physical,85,85
+41,Solar Beam,Grass,special,120,120
+47,Synthesis,Grass,status,-,-

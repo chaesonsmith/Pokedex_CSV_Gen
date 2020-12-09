@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Conversion,Normal,status,-,-
+1,Conversion 2,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+9,Agility,Psychic,status,-,-
+12,Psybeam,Psychic,special,65,65
+20,Recover,Normal,status,-,-
+24,Sharpen,Normal,status,-,-
+32,Lock-On,Normal,status,-,-
+36,Tri Attack,Normal,special,80,80
+44,Recycle,Normal,status,-,-
+48,Zap Cannon,Electric,special,120,120

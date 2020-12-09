@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Aurora Beam,Ice,special,65,100
+Bubble Beam,Water,special,65,100
+Haze,Ice,status,-,-
+Slam,Normal,physical,80,75
+Supersonic,Normal,status,-,55

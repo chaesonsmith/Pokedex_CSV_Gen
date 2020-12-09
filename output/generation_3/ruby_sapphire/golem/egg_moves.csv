@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Block,Normal,status,-,-
+Mega Punch,Normal,physical,80,85
+Rock Slide,Rock,physical,75,90

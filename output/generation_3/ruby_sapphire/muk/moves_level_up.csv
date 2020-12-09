@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Poison Gas,Poison,status,-,-
+1,Pound,Normal,physical,40,40
+4,Harden,Normal,status,-,-
+8,Disable,Normal,status,-,-
+13,Sludge,Poison,special,65,65
+19,Minimize,Normal,status,-,-
+26,Screech,Normal,status,-,-
+34,Acid Armor,Poison,status,-,-
+47,Sludge Bomb,Poison,special,90,90
+61,Memento,Dark,status,-,-

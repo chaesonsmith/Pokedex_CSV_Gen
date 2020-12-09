@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Peck,Flying,physical,35,35
+6,Sand Attack,Ground,status,-,-
+11,Leer,Normal,status,-,-
+16,Fury Attack,Normal,physical,15,15
+21,Knock Off,Dark,physical,65,65
+26,Fury Cutter,Bug,physical,40,40
+31,Swords Dance,Normal,status,-,-
+36,Agility,Psychic,status,-,-
+41,Slash,Normal,physical,70,70
+46,False Swipe,Normal,physical,40,40

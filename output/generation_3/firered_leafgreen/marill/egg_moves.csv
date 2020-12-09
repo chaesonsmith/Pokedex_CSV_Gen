@@ -1,0 +1,14 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Belly Drum,Normal,status,-,-
+Future Sight,Psychic,special,120,100
+Light Screen,Psychic,status,-,-
+Perish Song,Normal,status,-,-
+Present,Normal,physical,-,90
+Substitute,Normal,status,-,-
+Supersonic,Normal,status,-,55
+Encore,Normal,status,-,100
+Refresh,Normal,status,-,-
+Sing,Normal,status,-,55
+Slam,Normal,physical,80,75
+Tickle,Normal,status,-,100

@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Focus Energy,Normal,status,-,-
+1,Leer,Normal,status,-,-
+1,Rage,Normal,physical,20,20
+7,Rage,Normal,physical,20,20
+13,Focus Energy,Normal,status,-,-
+16,Scary Face,Normal,status,-,-
+22,Crunch,Dark,physical,80,80
+28,Screech,Normal,status,-,-
+33,Slash,Normal,physical,70,70
+38,Taunt,Dark,status,-,-
+43,Swagger,Normal,status,-,-
+48,Skull Bash,Normal,physical,130,130
+53,Agility,Psychic,status,-,-

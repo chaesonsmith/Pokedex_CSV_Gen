@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Howl,Normal,status,-,-
+1,Sand Attack,Ground,status,-,-
+1,Tackle,Normal,physical,40,40
+5,Howl,Normal,status,-,-
+9,Sand Attack,Ground,status,-,-
+13,Bite,Dark,physical,60,60
+17,Odor Sleuth,Normal,status,-,-
+22,Roar,Normal,status,-,-
+27,Swagger,Normal,status,-,-
+32,Scary Face,Normal,status,-,-
+37,Take Down,Normal,physical,90,90
+42,Taunt,Dark,status,-,-
+47,Crunch,Dark,physical,80,80
+52,Thief,Dark,physical,60,60

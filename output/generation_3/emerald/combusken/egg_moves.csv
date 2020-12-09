@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Endure,Normal,status,-,-
+Reversal,Fighting,physical,-,100
+Rock Slide,Rock,physical,75,90
+Smelling Salts,Normal,physical,70,100
+Swagger,Normal,status,-,85

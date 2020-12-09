@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tail Whip,Normal,status,-,-
+1,Water Gun,Water,special,40,40
+11,Slam,Normal,physical,80,80
+21,Amnesia,Psychic,status,-,-
+31,Earthquake,Ground,physical,100,100
+41,Rain Dance,Water,status,-,-
+51,Haze,Ice,status,-,-
+51,Mist,Ice,status,-,-

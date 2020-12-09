@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+5,Tail Whip,Normal,status,-,-
+9,Headbutt,Normal,physical,70,70
+13,Sand Attack,Ground,status,-,-
+17,Odor Sleuth,Normal,status,-,-
+21,Mud Sport,Ground,status,-,-
+25,Pin Missile,Bug,physical,25,25
+29,Covet,Normal,physical,60,60
+33,Flail,Normal,physical,-,-
+37,Rest,Psychic,status,-,-
+41,Belly Drum,Normal,status,-,-

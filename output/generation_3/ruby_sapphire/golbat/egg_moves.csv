@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Curse,Ghost,status,-,-
+Feint Attack,Dark,physical,60,∞
+Gust,Flying,special,40,100
+Pursuit,Dark,physical,40,100
+Quick Attack,Normal,physical,40,100
+Whirlwind,Normal,status,-,-

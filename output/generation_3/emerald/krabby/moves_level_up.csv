@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble,Water,special,40,40
+5,Leer,Normal,status,-,-
+12,Vice Grip,Normal,physical,55,55
+16,Harden,Normal,status,-,-
+23,Mud Shot,Ground,special,55,55
+27,Stomp,Normal,physical,65,65
+34,Guillotine,Normal,physical,-,-
+41,Protect,Normal,status,-,-
+45,Crabhammer,Water,physical,100,100

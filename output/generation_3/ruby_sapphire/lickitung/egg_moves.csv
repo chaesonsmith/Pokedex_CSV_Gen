@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Belly Drum,Normal,status,-,-
+Body Slam,Normal,physical,85,100
+Curse,Ghost,status,-,-
+Magnitude,Ground,physical,-,100
+Sleep Talk,Normal,status,-,-
+Smelling Salts,Normal,physical,70,100
+Snore,Normal,special,50,100
+Substitute,Normal,status,-,-

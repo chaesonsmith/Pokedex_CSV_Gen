@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Confusion,Psychic,special,50,100
+Flail,Normal,physical,-,100
+Foresight,Normal,status,-,-
+Haze,Ice,status,-,-
+Mirror Coat,Psychic,special,-,100
+Mist,Ice,status,-,-

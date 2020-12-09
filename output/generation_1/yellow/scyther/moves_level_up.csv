@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Quick Attack,Normal,physical,40,40
+17,Leer,Normal,status,-,-
+20,Focus Energy,Normal,status,-,-
+24,Double Team,Normal,status,-,-
+29,Slash,Normal,physical,70,70
+35,Swords Dance,Normal,status,-,-
+42,Agility,Psychic,status,-,-
+50,Wing Attack,Flying,physical,60,60

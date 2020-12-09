@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Beat Up,Dark,physical,-,100
+Crunch,Dark,physical,80,100
+Pursuit,Dark,physical,40,100
+Slam,Normal,physical,80,75
+Spite,Ghost,status,-,100

@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+5,Sweet Scent,Normal,status,-,-
+9,Charm,Fairy,status,-,-
+13,Moonlight,Fairy,status,-,-
+17,Quick Attack,Normal,physical,40,40
+21,Wish,Normal,status,-,-
+25,Encore,Normal,status,-,-
+29,Flatter,Dark,status,-,-
+33,Helping Hand,Normal,status,-,-
+37,Covet,Normal,physical,60,60

@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Crunch,Dark,physical,80,100
+Curse,Ghost,status,-,-
+Headbutt,Normal,physical,70,100
+Swift,Normal,special,60,∞
+Uproar,Normal,special,90,100

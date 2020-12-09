@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Defense Curl,Normal,status,-,-
+1,Sand Attack,Ground,status,-,-
+1,Scratch,Normal,physical,40,40
+6,Defense Curl,Normal,status,-,-
+11,Sand Attack,Ground,status,-,-
+17,Poison Sting,Poison,physical,15,15
+24,Slash,Normal,physical,70,70
+33,Swift,Normal,special,60,60
+42,Fury Swipes,Normal,physical,18,18
+52,Sandstorm,Rock,status,-,-

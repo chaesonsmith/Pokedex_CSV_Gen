@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+9,Leer,Normal,status,-,-
+15,Fury Attack,Normal,physical,15,15
+22,Mirror Move,Flying,status,-,-
+29,Drill Peck,Flying,physical,80,80
+36,Agility,Psychic,status,-,-

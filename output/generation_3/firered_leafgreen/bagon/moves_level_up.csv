@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Rage,Normal,physical,20,20
+5,Bite,Dark,physical,60,60
+9,Leer,Normal,status,-,-
+17,Headbutt,Normal,physical,70,70
+21,Focus Energy,Normal,status,-,-
+25,Ember,Fire,special,40,40
+33,Dragon Breath,Dragon,special,60,60
+37,Scary Face,Normal,status,-,-
+41,Crunch,Dark,physical,80,80
+49,Dragon Claw,Dragon,physical,80,80
+53,Double-Edge,Normal,physical,120,120

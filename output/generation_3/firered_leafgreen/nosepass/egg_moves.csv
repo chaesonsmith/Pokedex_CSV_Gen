@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Explosion,Normal,physical,250,100
+Magnitude,Ground,physical,-,100
+Rollout,Rock,physical,30,90

@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Quick Attack,Normal,physical,40,40
+1,Sand Attack,Ground,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Water Gun,Water,special,40,40
+27,Quick Attack,Normal,physical,40,40
+31,Water Gun,Water,special,40,40
+37,Tail Whip,Normal,status,-,-
+40,Bite,Dark,physical,60,60
+42,Acid Armor,Poison,status,-,-
+44,Haze,Ice,status,-,-
+48,Mist,Ice,status,-,-
+54,Hydro Pump,Water,special,110,110

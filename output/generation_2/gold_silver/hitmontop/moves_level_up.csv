@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Rolling Kick,Fighting,physical,60,60
+7,Focus Energy,Normal,status,-,-
+13,Pursuit,Dark,physical,40,40
+19,Quick Attack,Normal,physical,40,40
+25,Rapid Spin,Normal,physical,20,20
+31,Counter,Fighting,physical,-,-
+37,Agility,Psychic,status,-,-
+43,Detect,Fighting,status,-,-
+49,Triple Kick,Fighting,physical,10,10

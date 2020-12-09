@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Leer,Normal,status,-,-
+11,Thunder Shock,Electric,special,40,40
+21,Roar,Normal,status,-,-
+31,Quick Attack,Normal,physical,40,40
+41,Spark,Electric,physical,65,65
+51,Reflect,Psychic,status,-,-
+61,Crunch,Dark,physical,80,80
+71,Thunder,Electric,special,110,110

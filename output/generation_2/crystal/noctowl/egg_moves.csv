@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Feint Attack,Dark,physical,60,∞
+Mirror Move,Flying,status,-,-
+Sky Attack,Flying,physical,140,90
+Supersonic,Normal,status,-,55
+Whirlwind,Normal,status,-,-
+Wing Attack,Flying,physical,60,100

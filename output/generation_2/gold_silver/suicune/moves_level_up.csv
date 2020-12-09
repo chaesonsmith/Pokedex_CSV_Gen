@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Leer,Normal,status,-,-
+11,Water Gun,Water,special,40,40
+21,Roar,Normal,status,-,-
+31,Gust,Flying,special,40,40
+41,Bubble Beam,Water,special,65,65
+51,Mist,Ice,status,-,-
+61,Mirror Coat,Psychic,special,-,-
+71,Hydro Pump,Water,special,110,110

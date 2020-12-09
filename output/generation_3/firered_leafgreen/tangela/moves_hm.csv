@@ -1,0 +1,4 @@
+HM,Move,Type,Cat.,Power,Acc.
+01,Cut,Normal,physical,50,50
+05,Flash,Normal,status,-,-
+06,Rock Smash,Fighting,physical,40,40

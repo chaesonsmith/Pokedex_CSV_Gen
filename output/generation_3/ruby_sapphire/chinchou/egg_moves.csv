@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Flail,Normal,physical,-,100
+Screech,Normal,status,-,85

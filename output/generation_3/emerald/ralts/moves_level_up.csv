@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+6,Confusion,Psychic,special,50,50
+11,Double Team,Normal,status,-,-
+16,Teleport,Psychic,status,-,-
+21,Calm Mind,Psychic,status,-,-
+26,Psychic,Psychic,special,90,90
+31,Imprison,Psychic,status,-,-
+36,Future Sight,Psychic,special,120,120
+41,Hypnosis,Psychic,status,-,-
+46,Dream Eater,Psychic,special,100,100

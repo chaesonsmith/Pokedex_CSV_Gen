@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Wrap,Normal,physical,15,15
+6,Growl,Normal,status,-,-
+9,Astonish,Ghost,physical,30,30
+14,Confusion,Psychic,special,50,50
+17,Take Down,Normal,physical,90,90
+22,Uproar,Normal,special,90,90
+25,Yawn,Normal,status,-,-
+30,Psywave,Psychic,special,-,-
+33,Double-Edge,Normal,physical,120,120
+38,Heal Bell,Normal,status,-,-
+41,Safeguard,Normal,status,-,-
+46,Psychic,Psychic,special,90,90

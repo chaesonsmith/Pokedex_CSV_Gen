@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Defense Curl,Normal,status,-,-
+1,Growl,Normal,status,-,-
+1,Powder Snow,Ice,special,40,40
+1,Water Gun,Water,special,40,40
+7,Encore,Normal,status,-,-
+13,Ice Ball,Ice,physical,30,30
+19,Body Slam,Normal,physical,85,85
+25,Aurora Beam,Ice,special,65,65
+31,Hail,Ice,status,-,-
+39,Rest,Psychic,status,-,-
+39,Snore,Normal,special,50,50
+50,Blizzard,Ice,special,110,110
+61,Sheer Cold,Ice,special,-,-

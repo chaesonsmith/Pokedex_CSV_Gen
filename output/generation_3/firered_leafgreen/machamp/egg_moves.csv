@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Encore,Normal,status,-,100
+Light Screen,Psychic,status,-,-
+Meditate,Psychic,status,-,-
+Rock Slide,Rock,physical,75,90
+Rolling Kick,Fighting,physical,60,85
+Smelling Salts,Normal,physical,70,100

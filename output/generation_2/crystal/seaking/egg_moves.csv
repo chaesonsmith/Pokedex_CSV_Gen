@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Haze,Ice,status,-,-
+Hydro Pump,Water,special,110,80
+Psybeam,Psychic,special,65,100

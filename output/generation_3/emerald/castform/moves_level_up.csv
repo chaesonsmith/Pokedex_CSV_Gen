@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+10,Ember,Fire,special,40,40
+10,Powder Snow,Ice,special,40,40
+10,Water Gun,Water,special,40,40
+20,Hail,Ice,status,-,-
+20,Rain Dance,Water,status,-,-
+20,Sunny Day,Fire,status,-,-
+30,Weather Ball,Normal,special,50,50

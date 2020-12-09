@@ -1,0 +1,28 @@
+TM,Move,Type,Cat.,Power,Acc.
+02,Headbutt,Normal,physical,70,70
+03,Curse,Ghost,status,-,-
+05,Roar,Normal,status,-,-
+06,Toxic,Poison,status,-,-
+08,Rock Smash,Fighting,physical,40,40
+09,Psych Up,Normal,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+13,Snore,Normal,special,50,50
+14,Blizzard,Ice,special,110,110
+15,Hyper Beam,Normal,special,150,150
+16,Icy Wind,Ice,special,55,55
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+20,Endure,Normal,status,-,-
+21,Frustration,Normal,physical,-,-
+23,Iron Tail,Steel,physical,100,100
+27,Return,Normal,physical,-,-
+28,Dig,Ground,physical,80,80
+31,Mud-Slap,Ground,special,20,20
+32,Double Team,Normal,status,-,-
+34,Swagger,Normal,status,-,-
+35,Sleep Talk,Normal,status,-,-
+37,Sandstorm,Rock,status,-,-
+39,Swift,Normal,special,60,60
+43,Detect,Fighting,status,-,-
+44,Rest,Psychic,status,-,-

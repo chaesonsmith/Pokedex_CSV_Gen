@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Mist,Ice,status,-,-
+Rock Slide,Rock,physical,75,90
+Safeguard,Normal,status,-,-
+Screech,Normal,status,-,85

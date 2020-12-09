@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Dragon Breath,Dragon,special,60,100
+Dragon Dance,Dragon,status,-,-
+Haze,Ice,status,-,-
+Light Screen,Psychic,status,-,-
+Mist,Ice,status,-,-
+Supersonic,Normal,status,-,55

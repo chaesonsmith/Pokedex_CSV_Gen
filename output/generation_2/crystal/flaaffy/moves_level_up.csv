@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Thunder Shock,Electric,special,40,40
+9,Thunder Shock,Electric,special,40,40
+18,Thunder Wave,Electric,status,-,-
+27,Cotton Spore,Grass,status,-,-
+36,Light Screen,Psychic,status,-,-
+45,Thunder,Electric,special,110,110

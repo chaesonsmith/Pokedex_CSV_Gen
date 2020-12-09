@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Beat Up,Dark,physical,-,100
+Belly Drum,Normal,status,-,-
+Bite,Dark,physical,60,100
+Outrage,Dragon,physical,120,100
+Rock Slide,Rock,physical,75,90

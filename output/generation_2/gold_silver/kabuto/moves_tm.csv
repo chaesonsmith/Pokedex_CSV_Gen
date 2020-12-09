@@ -1,0 +1,22 @@
+TM,Move,Type,Cat.,Power,Acc.
+03,Curse,Ghost,status,-,-
+04,Rollout,Rock,physical,30,30
+06,Toxic,Poison,status,-,-
+08,Rock Smash,Fighting,physical,40,40
+10,Hidden Power,Normal,special,60,60
+13,Snore,Normal,special,50,50
+14,Blizzard,Ice,special,110,110
+16,Icy Wind,Ice,special,55,55
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+19,Giga Drain,Grass,special,75,75
+20,Endure,Normal,status,-,-
+21,Frustration,Normal,physical,-,-
+27,Return,Normal,physical,-,-
+32,Double Team,Normal,status,-,-
+34,Swagger,Normal,status,-,-
+35,Sleep Talk,Normal,status,-,-
+37,Sandstorm,Rock,status,-,-
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-
+46,Thief,Dark,physical,60,60

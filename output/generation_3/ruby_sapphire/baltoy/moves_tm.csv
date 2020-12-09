@@ -1,0 +1,23 @@
+TM,Move,Type,Cat.,Power,Acc.
+06,Toxic,Poison,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+13,Ice Beam,Ice,special,90,90
+16,Light Screen,Psychic,status,-,-
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+21,Frustration,Normal,physical,-,-
+22,Solar Beam,Grass,special,120,120
+26,Earthquake,Ground,physical,100,100
+27,Return,Normal,physical,-,-
+28,Dig,Ground,physical,80,80
+29,Psychic,Psychic,special,90,90
+30,Shadow Ball,Ghost,special,80,80
+32,Double Team,Normal,status,-,-
+33,Reflect,Psychic,status,-,-
+37,Sandstorm,Rock,status,-,-
+39,Rock Tomb,Rock,physical,60,60
+42,Facade,Normal,physical,70,70
+43,Secret Power,Normal,physical,70,70
+44,Rest,Psychic,status,-,-
+48,Skill Swap,Psychic,status,-,-

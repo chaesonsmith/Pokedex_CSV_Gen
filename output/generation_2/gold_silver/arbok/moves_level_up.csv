@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Leer,Normal,status,-,-
+1,Poison Sting,Poison,physical,15,15
+1,Wrap,Normal,physical,15,15
+9,Poison Sting,Poison,physical,15,15
+15,Bite,Dark,physical,60,60
+25,Glare,Normal,status,-,-
+33,Screech,Normal,status,-,-
+43,Acid,Poison,special,40,40
+51,Haze,Ice,status,-,-

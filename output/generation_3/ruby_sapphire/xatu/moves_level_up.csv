@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+10,Night Shade,Ghost,special,-,-
+20,Teleport,Psychic,status,-,-
+35,Future Sight,Psychic,special,120,120
+35,Wish,Normal,status,-,-
+50,Confuse Ray,Ghost,status,-,-
+65,Psychic,Psychic,special,90,90

@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Flail,Normal,physical,-,100
+Metal Claw,Steel,physical,50,95
+Rapid Spin,Normal,physical,20,100
+Safeguard,Normal,status,-,-

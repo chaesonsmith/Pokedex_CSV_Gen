@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.,Method
+Assist,Normal,status,-,-,Level up
+Charm,Fairy,status,-,100,Level up
+Covet,Normal,physical,60,100,Level up
+Double-Edge,Normal,physical,120,100,Level up
+Feint Attack,Dark,physical,60,∞,Level up
+Heal Bell,Normal,status,-,-,Level up
+Tackle,Normal,physical,40,100,Level up
+Tail Whip,Normal,status,-,100,Level up

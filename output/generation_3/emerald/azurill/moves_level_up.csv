@@ -1,0 +1,7 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Splash,Normal,status,-,-
+3,Charm,Fairy,status,-,-
+6,Tail Whip,Normal,status,-,-
+10,Bubble,Water,special,40,40
+15,Slam,Normal,physical,80,80
+21,Water Gun,Water,special,40,40

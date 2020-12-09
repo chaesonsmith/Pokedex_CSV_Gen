@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Aurora Beam,Ice,special,65,100
+Future Sight,Psychic,special,120,100
+Quick Attack,Normal,physical,40,100
+Rapid Spin,Normal,physical,20,100
+Splash,Normal,status,-,-

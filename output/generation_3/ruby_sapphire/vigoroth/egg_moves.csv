@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Crush Claw,Normal,physical,75,95
+Curse,Ghost,status,-,-
+Pursuit,Dark,physical,40,100
+Slash,Normal,physical,70,100
+Sleep Talk,Normal,status,-,-
+Snore,Normal,special,50,100

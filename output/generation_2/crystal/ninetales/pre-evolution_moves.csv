@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Flamethrower,Fire,special,90,100,Level up
+Roar,Normal,status,-,-,Level up
+Tail Whip,Normal,status,-,100,Level up

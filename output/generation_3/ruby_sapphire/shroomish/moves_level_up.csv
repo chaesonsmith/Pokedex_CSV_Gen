@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+4,Tackle,Normal,physical,40,40
+7,Stun Spore,Grass,status,-,-
+10,Leech Seed,Grass,status,-,-
+16,Mega Drain,Grass,special,40,40
+22,Headbutt,Normal,physical,70,70
+28,Poison Powder,Poison,status,-,-
+36,Growth,Normal,status,-,-
+45,Giga Drain,Grass,special,75,75
+54,Spore,Grass,status,-,-

@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Pound,Normal,physical,40,40
+3,Harden,Normal,status,-,-
+7,Growth,Normal,status,-,-
+13,Nature Power,Normal,status,-,-
+19,Fake Out,Normal,physical,40,40
+25,Torment,Dark,status,-,-
+31,Feint Attack,Dark,physical,60,60
+37,Razor Wind,Normal,special,80,80
+43,Swagger,Normal,status,-,-
+49,Extrasensory,Psychic,special,80,80

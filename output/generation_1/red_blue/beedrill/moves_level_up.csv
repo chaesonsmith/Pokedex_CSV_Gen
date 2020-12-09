@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Fury Attack,Normal,physical,15,15
+12,Fury Attack,Normal,physical,15,15
+16,Focus Energy,Normal,status,-,-
+20,Twineedle,Bug,physical,25,25
+25,Rage,Normal,physical,20,20
+30,Pin Missile,Bug,physical,25,25
+35,Agility,Psychic,status,-,-

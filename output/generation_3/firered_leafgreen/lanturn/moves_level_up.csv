@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble,Water,special,40,40
+1,Supersonic,Normal,status,-,-
+1,Thunder Wave,Electric,status,-,-
+5,Supersonic,Normal,status,-,-
+13,Flail,Normal,physical,-,-
+17,Water Gun,Water,special,40,40
+25,Spark,Electric,physical,65,65
+32,Confuse Ray,Ghost,status,-,-
+43,Take Down,Normal,physical,90,90
+50,Hydro Pump,Water,special,110,110
+61,Charge,Electric,status,-,-

@@ -1,0 +1,4 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Splash,Normal,status,-,-
+15,Tackle,Normal,physical,40,40
+30,Flail,Normal,physical,-,-

@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Constrict,Normal,physical,10,10
+1,Poison Sting,Poison,physical,15,15
+1,Scary Face,Normal,status,-,-
+1,String Shot,Bug,status,-,-
+6,Scary Face,Normal,status,-,-
+11,Constrict,Normal,physical,10,10
+17,Night Shade,Ghost,special,-,-
+25,Leech Life,Bug,physical,80,80
+34,Fury Swipes,Normal,physical,18,18
+43,Spider Web,Bug,status,-,-
+53,Agility,Psychic,status,-,-
+63,Psychic,Psychic,special,90,90

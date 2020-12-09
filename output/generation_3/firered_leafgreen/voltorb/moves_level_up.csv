@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Charge,Electric,status,-,-
+1,Tackle,Normal,physical,40,40
+8,Screech,Normal,status,-,-
+15,Sonic Boom,Normal,special,-,-
+21,Spark,Electric,physical,65,65
+27,Self-Destruct,Normal,physical,200,200
+32,Rollout,Rock,physical,30,30
+37,Light Screen,Psychic,status,-,-
+42,Swift,Normal,special,60,60
+46,Explosion,Normal,physical,250,250
+49,Mirror Coat,Psychic,special,-,-

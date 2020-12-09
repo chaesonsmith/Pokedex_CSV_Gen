@@ -1,0 +1,26 @@
+TM,Move,Type,Cat.,Power,Acc.
+04,Calm Mind,Psychic,status,-,-
+06,Toxic,Poison,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+12,Taunt,Dark,status,-,-
+16,Light Screen,Psychic,status,-,-
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+20,Safeguard,Normal,status,-,-
+21,Frustration,Normal,physical,-,-
+24,Thunderbolt,Electric,special,90,90
+27,Return,Normal,physical,-,-
+29,Psychic,Psychic,special,90,90
+30,Shadow Ball,Ghost,special,80,80
+32,Double Team,Normal,status,-,-
+33,Reflect,Psychic,status,-,-
+34,Shock Wave,Electric,special,60,60
+41,Torment,Dark,status,-,-
+42,Facade,Normal,physical,70,70
+43,Secret Power,Normal,physical,70,70
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-
+46,Thief,Dark,physical,60,60
+48,Skill Swap,Psychic,status,-,-
+49,Snatch,Dark,status,-,-

@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Amnesia,Psychic,status,-,-
+1,Headbutt,Normal,physical,70,70
+1,Rest,Psychic,status,-,-
+35,Body Slam,Normal,physical,85,85
+41,Harden,Normal,status,-,-
+48,Double-Edge,Normal,physical,120,120
+56,Hyper Beam,Normal,special,150,150

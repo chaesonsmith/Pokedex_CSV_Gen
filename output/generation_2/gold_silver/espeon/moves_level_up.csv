@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+8,Sand Attack,Ground,status,-,-
+16,Confusion,Psychic,special,50,50
+23,Quick Attack,Normal,physical,40,40
+30,Swift,Normal,special,60,60
+36,Psybeam,Psychic,special,65,65
+42,Psych Up,Normal,status,-,-
+47,Psychic,Psychic,special,90,90
+52,Morning Sun,Normal,status,-,-

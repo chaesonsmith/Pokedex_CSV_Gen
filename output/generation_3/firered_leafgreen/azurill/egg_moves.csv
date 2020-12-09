@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Encore,Normal,status,-,100
+Refresh,Normal,status,-,-
+Sing,Normal,status,-,55
+Slam,Normal,physical,80,75
+Tickle,Normal,status,-,100

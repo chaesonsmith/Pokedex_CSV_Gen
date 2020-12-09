@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Quick Attack,Normal,physical,40,40
+1,Sand Attack,Ground,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Thunder Shock,Electric,special,40,40
+27,Quick Attack,Normal,physical,40,40
+31,Thunder Shock,Electric,special,40,40
+37,Tail Whip,Normal,status,-,-
+40,Thunder Wave,Electric,status,-,-
+42,Double Kick,Fighting,physical,30,30
+44,Agility,Psychic,status,-,-
+48,Pin Missile,Bug,physical,25,25
+54,Thunder,Electric,special,110,110

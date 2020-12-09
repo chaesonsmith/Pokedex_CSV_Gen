@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Dig,Ground,physical,80,100
+Flail,Normal,physical,-,100
+Haze,Ice,status,-,-
+Knock Off,Dark,physical,65,100
+Slam,Normal,physical,80,75
+Swords Dance,Normal,status,-,-

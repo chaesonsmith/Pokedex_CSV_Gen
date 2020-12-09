@@ -1,0 +1,22 @@
+TM,Move,Type,Cat.,Power,Acc.
+03,Water Pulse,Water,special,60,60
+05,Roar,Normal,status,-,-
+06,Toxic,Poison,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+21,Frustration,Normal,physical,-,-
+23,Iron Tail,Steel,physical,100,100
+26,Earthquake,Ground,physical,100,100
+27,Return,Normal,physical,-,-
+28,Dig,Ground,physical,80,80
+32,Double Team,Normal,status,-,-
+34,Shock Wave,Electric,special,60,60
+37,Sandstorm,Rock,status,-,-
+39,Rock Tomb,Rock,physical,60,60
+40,Aerial Ace,Flying,physical,60,60
+42,Facade,Normal,physical,70,70
+43,Secret Power,Normal,physical,70,70
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-

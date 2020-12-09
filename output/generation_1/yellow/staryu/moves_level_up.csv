@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+17,Water Gun,Water,special,40,40
+22,Harden,Normal,status,-,-
+27,Recover,Normal,status,-,-
+32,Swift,Normal,special,60,60
+37,Minimize,Normal,status,-,-
+42,Light Screen,Psychic,status,-,-
+47,Hydro Pump,Water,special,110,110

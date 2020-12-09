@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Scratch,Normal,physical,40,40
+1,Yawn,Normal,status,-,-
+7,Encore,Normal,status,-,-
+13,Slack Off,Normal,status,-,-
+19,Feint Attack,Dark,physical,60,60
+25,Amnesia,Psychic,status,-,-
+31,Covet,Normal,physical,60,60
+37,Counter,Fighting,physical,-,-
+43,Flail,Normal,physical,-,-

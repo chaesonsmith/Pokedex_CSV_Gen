@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.,Method
+Clamp,Water,physical,35,85,Level up
+Ice Beam,Ice,special,90,100,Level up
+Icicle Spear,Ice,physical,25,100,Level up
+Leer,Normal,status,-,100,Level up
+Tackle,Normal,physical,40,100,Level up

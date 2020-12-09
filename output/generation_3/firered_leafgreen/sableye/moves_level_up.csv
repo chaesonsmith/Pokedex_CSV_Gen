@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+5,Foresight,Normal,status,-,-
+9,Night Shade,Ghost,special,-,-
+13,Astonish,Ghost,physical,30,30
+17,Fury Swipes,Normal,physical,18,18
+21,Fake Out,Normal,physical,40,40
+25,Detect,Fighting,status,-,-
+29,Feint Attack,Dark,physical,60,60
+33,Knock Off,Dark,physical,65,65
+37,Confuse Ray,Ghost,status,-,-
+41,Shadow Ball,Ghost,special,80,80
+45,Mean Look,Normal,status,-,-

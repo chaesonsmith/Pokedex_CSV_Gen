@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Gust,Flying,special,40,40
+1,Quick Attack,Normal,physical,40,40
+1,Sand Attack,Ground,status,-,-
+1,Tackle,Normal,physical,40,40
+5,Sand Attack,Ground,status,-,-
+9,Gust,Flying,special,40,40
+15,Quick Attack,Normal,physical,40,40
+23,Whirlwind,Normal,status,-,-
+33,Wing Attack,Flying,physical,60,60
+46,Agility,Psychic,status,-,-
+61,Mirror Move,Flying,status,-,-

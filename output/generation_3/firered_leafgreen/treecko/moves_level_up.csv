@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Pound,Normal,physical,40,40
+6,Absorb,Grass,special,20,20
+11,Quick Attack,Normal,physical,40,40
+16,Pursuit,Dark,physical,40,40
+21,Screech,Normal,status,-,-
+26,Mega Drain,Grass,special,40,40
+31,Agility,Psychic,status,-,-
+36,Slam,Normal,physical,80,80
+41,Detect,Fighting,status,-,-
+46,Giga Drain,Grass,special,75,75

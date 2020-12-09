@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.,Method
+Amnesia,Psychic,status,-,-,Level up
+Covet,Normal,physical,60,100,Level up
+Feint Attack,Dark,physical,60,∞,Level up
+Flail,Normal,physical,-,100,Level up
+Slack Off,Normal,status,-,-,Level up
+Yawn,Normal,status,-,-,Level up

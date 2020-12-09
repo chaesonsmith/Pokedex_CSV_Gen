@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Curse,Ghost,status,-,-
+Disable,Normal,status,-,100
+Dream Eater,Psychic,special,100,100
+Hypnosis,Psychic,status,-,60

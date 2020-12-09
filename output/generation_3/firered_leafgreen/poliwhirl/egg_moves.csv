@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Bubble Beam,Water,special,65,100
+Haze,Ice,status,-,-
+Ice Ball,Ice,physical,30,90
+Mind Reader,Normal,status,-,-
+Mist,Ice,status,-,-
+Splash,Normal,status,-,-
+Water Sport,Water,status,-,-

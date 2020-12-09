@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Curse,Ghost,status,-,-
+Grass Whistle,Grass,status,-,55
+Light Screen,Psychic,status,-,-
+Magical Leaf,Grass,special,60,∞
+Petal Dance,Grass,special,120,100
+Safeguard,Normal,status,-,-
+Skull Bash,Normal,physical,130,100

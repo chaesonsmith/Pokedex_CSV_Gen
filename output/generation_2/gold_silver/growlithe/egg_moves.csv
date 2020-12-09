@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Crunch,Dark,physical,80,100
+Fire Spin,Fire,special,35,85
+Safeguard,Normal,status,-,-
+Thrash,Normal,physical,120,100

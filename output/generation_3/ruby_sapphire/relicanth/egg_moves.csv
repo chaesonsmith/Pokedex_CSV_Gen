@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Magnitude,Ground,physical,-,100
+Rock Slide,Rock,physical,75,90
+Skull Bash,Normal,physical,130,100
+Sleep Talk,Normal,status,-,-
+Water Sport,Water,status,-,-

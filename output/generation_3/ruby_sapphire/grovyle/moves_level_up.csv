@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+1,Leer,Normal,status,-,-
+1,Pound,Normal,physical,40,40
+1,Quick Attack,Normal,physical,40,40
+6,Absorb,Grass,special,20,20
+11,Quick Attack,Normal,physical,40,40
+16,Fury Cutter,Bug,physical,40,40
+17,Pursuit,Dark,physical,40,40
+23,Screech,Normal,status,-,-
+29,Leaf Blade,Grass,physical,90,90
+35,Agility,Psychic,status,-,-
+41,Slam,Normal,physical,80,80
+47,Detect,Fighting,status,-,-
+53,False Swipe,Normal,physical,40,40

@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Peck,Flying,physical,35,35
+13,Sand Attack,Ground,status,-,-
+19,Swift,Normal,special,60,60
+25,Agility,Psychic,status,-,-
+37,Fury Attack,Normal,physical,15,15
+49,Steel Wing,Steel,physical,70,70

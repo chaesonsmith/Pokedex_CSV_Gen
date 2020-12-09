@@ -1,0 +1,7 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Scratch,Normal,physical,40,40
+28,Tail Whip,Normal,status,-,-
+31,Disable,Normal,status,-,-
+36,Confusion,Psychic,special,50,50
+43,Fury Swipes,Normal,physical,18,18
+52,Hydro Pump,Water,special,110,110

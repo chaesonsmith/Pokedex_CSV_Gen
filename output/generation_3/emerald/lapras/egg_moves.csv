@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Curse,Ghost,status,-,-
+Dragon Dance,Dragon,status,-,-
+Foresight,Normal,status,-,-
+Horn Drill,Normal,physical,-,-
+Refresh,Normal,status,-,-
+Sleep Talk,Normal,status,-,-
+Substitute,Normal,status,-,-
+Tickle,Normal,status,-,100

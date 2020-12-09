@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Foresight,Normal,status,-,-
+Fury Swipes,Normal,physical,18,80
+Quick Attack,Normal,physical,40,100
+Reversal,Fighting,physical,-,100
+Thrash,Normal,physical,120,100

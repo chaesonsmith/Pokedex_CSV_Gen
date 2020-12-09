@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.,Method
+Double Kick,Fighting,physical,30,100,Level up
+Focus Energy,Normal,status,-,-,Level up
+Fury Attack,Normal,physical,15,85,Level up
+Horn Drill,Normal,physical,-,-,Level up
+Leer,Normal,status,-,100,Level up

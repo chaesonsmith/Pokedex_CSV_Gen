@@ -1,0 +1,6 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble Beam,Water,special,65,65
+1,Rapid Spin,Normal,physical,20,20
+1,Recover,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+37,Confuse Ray,Ghost,status,-,-

@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Astonish,Ghost,physical,30,100
+False Swipe,Normal,physical,40,100
+Feint Attack,Dark,physical,60,∞
+Quick Attack,Normal,physical,40,100
+Scary Face,Normal,status,-,100
+Sky Attack,Flying,physical,140,90
+Tri Attack,Normal,special,80,100

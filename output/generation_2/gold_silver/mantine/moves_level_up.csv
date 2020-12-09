@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bubble,Water,special,40,40
+1,Tackle,Normal,physical,40,40
+10,Supersonic,Normal,status,-,-
+18,Bubble Beam,Water,special,65,65
+25,Take Down,Normal,physical,90,90
+32,Agility,Psychic,status,-,-
+40,Wing Attack,Flying,physical,60,60
+49,Confuse Ray,Ghost,status,-,-

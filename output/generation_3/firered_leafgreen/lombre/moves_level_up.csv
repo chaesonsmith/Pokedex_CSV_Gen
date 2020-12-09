@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Astonish,Ghost,physical,30,30
+3,Growl,Normal,status,-,-
+7,Absorb,Grass,special,20,20
+13,Nature Power,Normal,status,-,-
+19,Fake Out,Normal,physical,40,40
+25,Fury Swipes,Normal,physical,18,18
+31,Water Sport,Water,status,-,-
+37,Thief,Dark,physical,60,60
+43,Uproar,Normal,special,90,90
+49,Hydro Pump,Water,special,110,110

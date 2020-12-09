@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Curse,Ghost,status,-,-
+Fissure,Ground,physical,-,-
+Rock Slide,Rock,physical,75,90
+Spit Up,Normal,special,-,100
+Stockpile,Normal,status,-,-
+Swallow,Normal,status,-,-
+Water Sport,Water,status,-,-
+Yawn,Normal,status,-,-

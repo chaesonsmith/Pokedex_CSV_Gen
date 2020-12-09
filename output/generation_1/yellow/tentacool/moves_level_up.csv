@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Acid,Poison,special,40,40
+7,Supersonic,Normal,status,-,-
+13,Wrap,Normal,physical,15,15
+18,Poison Sting,Poison,physical,15,15
+22,Water Gun,Water,special,40,40
+27,Constrict,Normal,physical,10,10
+33,Barrier,Psychic,status,-,-
+40,Screech,Normal,status,-,-
+48,Hydro Pump,Water,special,110,110

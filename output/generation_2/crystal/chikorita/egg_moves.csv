@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Counter,Fighting,physical,-,100
+Flail,Normal,physical,-,100
+Leech Seed,Grass,status,-,90
+Swords Dance,Normal,status,-,-
+Vine Whip,Grass,physical,45,100

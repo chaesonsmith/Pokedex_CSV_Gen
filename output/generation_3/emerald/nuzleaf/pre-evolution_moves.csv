@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Bide,Normal,physical,-,-,Level up
+Explosion,Normal,physical,250,100,Level up
+Sunny Day,Fire,status,-,-,Level up
+Synthesis,Grass,status,-,-,Level up

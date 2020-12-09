@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+False Swipe,Normal,physical,40,100
+Poison Fang,Poison,physical,50,100
+Psych Up,Normal,status,-,-
+Swords Dance,Normal,status,-,-
+Tickle,Normal,status,-,100

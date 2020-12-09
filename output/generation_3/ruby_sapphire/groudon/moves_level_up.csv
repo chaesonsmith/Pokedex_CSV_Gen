@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Mud Shot,Ground,special,55,55
+5,Scary Face,Normal,status,-,-
+15,Ancient Power,Rock,special,60,60
+20,Slash,Normal,physical,70,70
+30,Bulk Up,Fighting,status,-,-
+35,Earthquake,Ground,physical,100,100
+45,Fire Blast,Fire,special,110,110
+50,Rest,Psychic,status,-,-
+60,Fissure,Ground,physical,-,-
+65,Solar Beam,Grass,special,120,120
+75,Eruption,Fire,special,150,150

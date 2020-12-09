@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Harden,Normal,status,-,-,Level up
+String Shot,Bug,status,-,95,Level up
+Tackle,Normal,physical,40,100,Level up

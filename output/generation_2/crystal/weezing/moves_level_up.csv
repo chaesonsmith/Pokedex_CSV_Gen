@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Poison Gas,Poison,status,-,-
+1,Self-Destruct,Normal,physical,200,200
+1,Smog,Poison,special,30,30
+1,Tackle,Normal,physical,40,40
+9,Smog,Poison,special,30,30
+17,Self-Destruct,Normal,physical,200,200
+21,Sludge,Poison,special,65,65
+25,Smokescreen,Normal,status,-,-
+33,Haze,Ice,status,-,-
+44,Explosion,Normal,physical,250,250
+51,Destiny Bond,Ghost,status,-,-

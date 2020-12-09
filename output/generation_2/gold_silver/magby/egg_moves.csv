@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Barrier,Psychic,status,-,-
+Karate Chop,Fighting,physical,50,100
+Mega Punch,Normal,physical,80,85
+Screech,Normal,status,-,85

@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Flail,Normal,physical,-,100
+Foresight,Normal,status,-,-
+Gust,Flying,special,40,100
+Mirror Move,Flying,status,-,-
+Quick Attack,Normal,physical,40,100

@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growth,Normal,status,-,-
+1,Vine Whip,Grass,physical,45,45
+1,Wrap,Normal,physical,15,15
+13,Wrap,Normal,physical,15,15
+15,Poison Powder,Poison,status,-,-
+18,Sleep Powder,Grass,status,-,-
+23,Stun Spore,Grass,status,-,-
+29,Acid,Poison,special,40,40
+38,Razor Leaf,Grass,physical,55,55
+49,Slam,Normal,physical,80,80

@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Harden,Normal,status,-,-
+1,Rapid Spin,Normal,physical,20,20
+1,Teleport,Psychic,status,-,-
+3,Harden,Normal,status,-,-
+5,Rapid Spin,Normal,physical,20,20
+7,Mud-Slap,Ground,special,20,20
+11,Psybeam,Psychic,special,65,65
+15,Rock Tomb,Rock,physical,60,60
+19,Self-Destruct,Normal,physical,200,200
+25,Ancient Power,Rock,special,60,60
+31,Sandstorm,Rock,status,-,-
+36,Hyper Beam,Normal,special,150,150
+42,Cosmic Power,Psychic,status,-,-
+55,Explosion,Normal,physical,250,250

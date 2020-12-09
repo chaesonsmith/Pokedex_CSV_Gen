@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Disable,Normal,status,-,100
+Feint Attack,Dark,physical,60,∞
+Flail,Normal,physical,-,100
+Heat Wave,Fire,special,95,90
+Howl,Normal,status,-,-
+Hypnosis,Psychic,status,-,60
+Psych Up,Normal,status,-,-
+Spite,Ghost,status,-,100

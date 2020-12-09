@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Pound,Normal,physical,40,40
+4,Growl,Normal,status,-,-
+7,Tail Whip,Normal,status,-,-
+10,Soft-Boiled,Normal,status,-,-
+13,Double Slap,Normal,physical,15,15
+18,Minimize,Normal,status,-,-
+23,Sing,Normal,status,-,-
+28,Egg Bomb,Normal,physical,100,100
+33,Defense Curl,Normal,status,-,-
+40,Light Screen,Psychic,status,-,-
+47,Double-Edge,Normal,physical,120,120

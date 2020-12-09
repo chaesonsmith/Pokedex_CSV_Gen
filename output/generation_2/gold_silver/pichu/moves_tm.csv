@@ -1,0 +1,24 @@
+TM,Move,Type,Cat.,Power,Acc.
+02,Headbutt,Normal,physical,70,70
+03,Curse,Ghost,status,-,-
+04,Rollout,Rock,physical,30,30
+06,Toxic,Poison,status,-,-
+07,Zap Cannon,Electric,special,120,120
+10,Hidden Power,Normal,special,60,60
+13,Snore,Normal,special,50,50
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+20,Endure,Normal,status,-,-
+21,Frustration,Normal,physical,-,-
+23,Iron Tail,Steel,physical,100,100
+25,Thunder,Electric,special,110,110
+27,Return,Normal,physical,-,-
+31,Mud-Slap,Ground,special,20,20
+32,Double Team,Normal,status,-,-
+34,Swagger,Normal,status,-,-
+35,Sleep Talk,Normal,status,-,-
+39,Swift,Normal,special,60,60
+40,Defense Curl,Normal,status,-,-
+43,Detect,Fighting,status,-,-
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-

@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Focus Energy,Normal,status,-,-
+Gust,Flying,special,40,100
+Quick Attack,Normal,physical,40,100

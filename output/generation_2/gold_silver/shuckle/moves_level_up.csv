@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Constrict,Normal,physical,10,10
+1,Withdraw,Water,status,-,-
+9,Wrap,Normal,physical,15,15
+14,Encore,Normal,status,-,-
+23,Safeguard,Normal,status,-,-
+28,Bide,Normal,physical,-,-
+37,Rest,Psychic,status,-,-

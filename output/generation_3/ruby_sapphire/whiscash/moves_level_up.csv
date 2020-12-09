@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Mud-Slap,Ground,special,20,20
+1,Mud Sport,Ground,status,-,-
+1,Tickle,Normal,status,-,-
+1,Water Sport,Water,status,-,-
+6,Mud Sport,Ground,status,-,-
+6,Water Sport,Water,status,-,-
+11,Water Gun,Water,special,40,40
+16,Magnitude,Ground,physical,-,-
+21,Amnesia,Psychic,status,-,-
+26,Rest,Psychic,status,-,-
+26,Snore,Normal,special,50,50
+36,Earthquake,Ground,physical,100,100
+46,Future Sight,Psychic,special,120,120
+56,Fissure,Ground,physical,-,-

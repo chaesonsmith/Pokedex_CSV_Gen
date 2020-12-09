@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Crush Claw,Normal,physical,75,95
+Flail,Normal,physical,-,100
+Metal Claw,Steel,physical,50,95
+Rapid Spin,Normal,physical,20,100
+Rock Slide,Rock,physical,75,90
+Safeguard,Normal,status,-,-
+Swords Dance,Normal,status,-,-

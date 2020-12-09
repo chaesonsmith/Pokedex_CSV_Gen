@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Mud Sport,Ground,status,-,-
+Splash,Normal,status,-,-
+Supersonic,Normal,status,-,55
+Water Sport,Water,status,-,-

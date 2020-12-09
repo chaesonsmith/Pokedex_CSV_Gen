@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Haze,Ice,status,-,-
+Lick,Ghost,physical,30,100
+Mean Look,Normal,status,-,-

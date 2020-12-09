@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Double-Edge,Normal,physical,120,100,Level up
+Endure,Normal,status,-,-,Level up
+Tackle,Normal,physical,40,100,Level up
+Take Down,Normal,physical,90,85,Level up

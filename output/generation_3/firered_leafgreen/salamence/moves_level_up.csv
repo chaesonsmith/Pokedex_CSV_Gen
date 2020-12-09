@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Headbutt,Normal,physical,70,70
+1,Leer,Normal,status,-,-
+1,Rage,Normal,physical,20,20
+5,Bite,Dark,physical,60,60
+9,Leer,Normal,status,-,-
+17,Headbutt,Normal,physical,70,70
+21,Focus Energy,Normal,status,-,-
+25,Ember,Fire,special,40,40
+30,Protect,Normal,status,-,-
+38,Dragon Breath,Dragon,special,60,60
+47,Scary Face,Normal,status,-,-
+50,Fly,Flying,physical,90,90
+61,Crunch,Dark,physical,80,80
+79,Dragon Claw,Dragon,physical,80,80
+93,Double-Edge,Normal,physical,120,120

@@ -1,0 +1,4 @@
+HM,Move,Type,Cat.,Power,Acc.
+01,Cut,Normal,physical,50,50
+02,Fly,Flying,physical,90,90
+06,Rock Smash,Fighting,physical,40,40

@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Charm,Fairy,status,-,100,Level up
+Sweet Kiss,Fairy,status,-,75,Level up
+Volt Tackle,Electric,physical,120,100,Special

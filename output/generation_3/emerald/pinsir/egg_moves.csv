@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+False Swipe,Normal,physical,40,100
+Feint Attack,Dark,physical,60,∞
+Flail,Normal,physical,-,100
+Fury Attack,Normal,physical,15,85

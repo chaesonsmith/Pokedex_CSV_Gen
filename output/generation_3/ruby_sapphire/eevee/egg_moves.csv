@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Curse,Ghost,status,-,-
+Endure,Normal,status,-,-
+Flail,Normal,physical,-,100
+Tickle,Normal,status,-,100
+Wish,Normal,status,-,-

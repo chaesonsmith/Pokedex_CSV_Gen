@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Water Gun,Water,special,40,40
+16,Sing,Normal,status,-,-
+20,Mist,Ice,status,-,-
+25,Body Slam,Normal,physical,85,85
+31,Confuse Ray,Ghost,status,-,-
+38,Ice Beam,Ice,special,90,90
+46,Hydro Pump,Water,special,110,110

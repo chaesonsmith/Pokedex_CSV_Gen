@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+7,Harden,Normal,status,-,-
+13,Rock Throw,Rock,physical,50,50
+16,Block,Normal,status,-,-
+22,Thunder Wave,Electric,status,-,-
+28,Rock Slide,Rock,physical,75,75
+31,Sandstorm,Rock,status,-,-
+37,Rest,Psychic,status,-,-
+43,Zap Cannon,Electric,special,120,120
+46,Lock-On,Normal,status,-,-

@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Double Kick,Fighting,physical,30,30
+1,Meditate,Psychic,status,-,-
+33,Rolling Kick,Fighting,physical,60,60
+38,Jump Kick,Fighting,physical,100,100
+43,Focus Energy,Normal,status,-,-
+48,High Jump Kick,Fighting,physical,130,130
+53,Mega Kick,Normal,physical,120,120

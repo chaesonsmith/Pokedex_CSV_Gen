@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Cross Chop,Fighting,physical,100,80
+Detect,Fighting,status,-,-
+Dynamic Punch,Fighting,physical,100,50
+Feint Attack,Dark,physical,60,∞
+Foresight,Normal,status,-,-
+Helping Hand,Normal,status,-,-
+Revenge,Fighting,physical,60,100

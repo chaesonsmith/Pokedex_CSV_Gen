@@ -1,0 +1,22 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Counter,Fighting,physical,-,100
+Defense Curl,Normal,status,-,-
+Double-Edge,Normal,physical,120,100
+Dynamic Punch,Fighting,physical,100,50
+Endure,Normal,status,-,-
+Fire Punch,Fire,physical,75,100
+Fury Cutter,Bug,physical,40,95
+Ice Punch,Ice,physical,75,100
+Icy Wind,Ice,special,55,95
+Mega Kick,Normal,physical,120,75
+Mega Punch,Normal,physical,80,85
+Mimic,Normal,status,-,-
+Mud-Slap,Ground,special,20,100
+Rock Slide,Rock,physical,75,90
+Seismic Toss,Fighting,physical,-,100
+Sleep Talk,Normal,status,-,-
+Snore,Normal,special,50,100
+Substitute,Normal,status,-,-
+Swagger,Normal,status,-,85
+Thunder Punch,Electric,physical,75,100

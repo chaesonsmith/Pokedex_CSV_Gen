@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Ancient Power,Rock,special,60,100
+Body Slam,Normal,physical,85,100
+Focus Energy,Normal,status,-,-

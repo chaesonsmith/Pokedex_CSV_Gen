@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Confuse Ray,Ghost,status,-,100
+Dragon Breath,Dragon,special,60,100
+Hypnosis,Psychic,status,-,60
+Light Screen,Psychic,status,-,-
+Mirror Coat,Psychic,special,-,100
+Mud Sport,Ground,status,-,-

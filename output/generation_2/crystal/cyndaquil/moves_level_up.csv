@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+6,Smokescreen,Normal,status,-,-
+12,Ember,Fire,special,40,40
+19,Quick Attack,Normal,physical,40,40
+27,Flame Wheel,Fire,physical,60,60
+36,Swift,Normal,special,60,60
+46,Flamethrower,Fire,special,90,90

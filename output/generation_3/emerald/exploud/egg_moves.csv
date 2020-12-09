@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Extrasensory,Psychic,special,80,100
+Smelling Salts,Normal,physical,70,100
+Snore,Normal,special,50,100
+Swagger,Normal,status,-,85
+Take Down,Normal,physical,90,85

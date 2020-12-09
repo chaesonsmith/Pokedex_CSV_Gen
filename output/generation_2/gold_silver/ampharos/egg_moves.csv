@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Reflect,Psychic,status,-,-
+Safeguard,Normal,status,-,-
+Screech,Normal,status,-,85
+Take Down,Normal,physical,90,85
+Thunderbolt,Electric,special,90,100

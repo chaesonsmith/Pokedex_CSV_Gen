@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Metal Claw,Steel,physical,50,95
+Razor Wind,Normal,special,80,100
+Wing Attack,Flying,physical,60,100

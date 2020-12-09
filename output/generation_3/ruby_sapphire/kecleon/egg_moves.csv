@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Disable,Normal,status,-,100
+Magic Coat,Psychic,status,-,-
+Trick,Psychic,status,-,100

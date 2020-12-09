@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Baton Pass,Normal,status,-,-
+Disable,Normal,status,-,100
+Psybeam,Psychic,special,65,100
+Pursuit,Dark,physical,40,100
+Sonic Boom,Normal,special,-,90

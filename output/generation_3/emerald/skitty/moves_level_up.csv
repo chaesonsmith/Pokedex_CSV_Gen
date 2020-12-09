@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+3,Tail Whip,Normal,status,-,-
+7,Attract,Normal,status,-,-
+13,Sing,Normal,status,-,-
+15,Double Slap,Normal,physical,15,15
+19,Assist,Normal,status,-,-
+25,Charm,Fairy,status,-,-
+27,Feint Attack,Dark,physical,60,60
+31,Covet,Normal,physical,60,60
+37,Heal Bell,Normal,status,-,-
+39,Double-Edge,Normal,physical,120,120

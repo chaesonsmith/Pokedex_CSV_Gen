@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+8,Sand Attack,Ground,status,-,-
+16,Pursuit,Dark,physical,40,40
+23,Quick Attack,Normal,physical,40,40
+30,Confuse Ray,Ghost,status,-,-
+36,Feint Attack,Dark,physical,60,60
+42,Mean Look,Normal,status,-,-
+47,Screech,Normal,status,-,-
+52,Moonlight,Fairy,status,-,-

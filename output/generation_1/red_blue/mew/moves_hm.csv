@@ -1,0 +1,6 @@
+HM,Move,Type,Cat.,Power,Acc.
+01,Cut,Normal,physical,50,50
+02,Fly,Flying,physical,90,90
+03,Surf,Water,special,90,90
+04,Strength,Normal,physical,80,80
+05,Flash,Normal,status,-,-

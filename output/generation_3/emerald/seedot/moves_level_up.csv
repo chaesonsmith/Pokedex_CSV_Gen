@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bide,Normal,physical,-,-
+3,Harden,Normal,status,-,-
+7,Growth,Normal,status,-,-
+13,Nature Power,Normal,status,-,-
+21,Synthesis,Grass,status,-,-
+31,Sunny Day,Fire,status,-,-
+43,Explosion,Normal,physical,250,250

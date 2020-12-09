@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Disable,Normal,status,-,-
+1,Hypnosis,Psychic,status,-,-
+1,Pound,Normal,physical,40,40
+10,Disable,Normal,status,-,-
+18,Confusion,Psychic,special,50,50
+25,Headbutt,Normal,physical,70,70
+33,Poison Gas,Poison,status,-,-
+40,Meditate,Psychic,status,-,-
+49,Psychic,Psychic,special,90,90
+55,Psych Up,Normal,status,-,-
+60,Future Sight,Psychic,special,120,120

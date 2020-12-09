@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+4,Thunder Wave,Electric,status,-,-
+10,Quick Attack,Normal,physical,40,40
+13,Helping Hand,Normal,status,-,-
+19,Spark,Electric,physical,65,65
+22,Encore,Normal,status,-,-
+28,Fake Tears,Dark,status,-,-
+31,Charge,Electric,status,-,-
+37,Thunder,Electric,special,110,110
+40,Baton Pass,Normal,status,-,-
+47,Agility,Psychic,status,-,-

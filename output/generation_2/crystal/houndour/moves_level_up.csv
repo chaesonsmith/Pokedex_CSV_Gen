@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ember,Fire,special,40,40
+1,Leer,Normal,status,-,-
+7,Roar,Normal,status,-,-
+13,Smog,Poison,special,30,30
+20,Bite,Dark,physical,60,60
+27,Feint Attack,Dark,physical,60,60
+35,Flamethrower,Fire,special,90,90
+43,Crunch,Dark,physical,80,80

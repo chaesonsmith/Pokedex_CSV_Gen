@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Fake Tears,Dark,status,-,100
+False Swipe,Normal,physical,40,100
+Helping Hand,Normal,status,-,-
+Swagger,Normal,status,-,85

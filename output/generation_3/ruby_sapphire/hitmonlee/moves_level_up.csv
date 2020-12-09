@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Double Kick,Fighting,physical,30,30
+1,Revenge,Fighting,physical,60,60
+6,Meditate,Psychic,status,-,-
+11,Rolling Kick,Fighting,physical,60,60
+16,Jump Kick,Fighting,physical,100,100
+20,Brick Break,Fighting,physical,75,75
+21,Focus Energy,Normal,status,-,-
+26,High Jump Kick,Fighting,physical,130,130
+31,Mind Reader,Normal,status,-,-
+36,Foresight,Normal,status,-,-
+41,Endure,Normal,status,-,-
+46,Mega Kick,Normal,physical,120,120
+51,Reversal,Fighting,physical,-,-

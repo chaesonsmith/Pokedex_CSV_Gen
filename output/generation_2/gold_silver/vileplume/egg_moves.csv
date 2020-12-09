@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Flail,Normal,physical,-,100
+Razor Leaf,Grass,physical,55,95
+Swords Dance,Normal,status,-,-
+Synthesis,Grass,status,-,-

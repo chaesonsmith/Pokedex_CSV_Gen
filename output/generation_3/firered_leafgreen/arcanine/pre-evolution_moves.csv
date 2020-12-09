@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.,Method
+Agility,Psychic,status,-,-,Level up
+Flame Wheel,Fire,physical,60,100,Level up
+Flamethrower,Fire,special,90,100,Level up
+Helping Hand,Normal,status,-,-,Level up
+Leer,Normal,status,-,100,Level up
+Take Down,Normal,physical,90,85,Level up

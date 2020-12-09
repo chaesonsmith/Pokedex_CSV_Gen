@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Curse,Ghost,status,-,-
+1,Tackle,Normal,physical,40,40
+6,Growl,Normal,status,-,-
+15,Water Gun,Water,special,40,40
+20,Confusion,Psychic,special,50,50
+29,Disable,Normal,status,-,-
+34,Headbutt,Normal,physical,70,70
+43,Amnesia,Psychic,status,-,-
+48,Psychic,Psychic,special,90,90

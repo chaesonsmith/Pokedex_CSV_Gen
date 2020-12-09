@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Astonish,Ghost,physical,30,100
+Covet,Normal,physical,60,100
+Leer,Normal,status,-,100
+Poison Fang,Poison,physical,50,100
+Yawn,Normal,status,-,-

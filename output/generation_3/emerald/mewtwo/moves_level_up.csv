@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Disable,Normal,status,-,-
+11,Barrier,Psychic,status,-,-
+22,Swift,Normal,special,60,60
+33,Psych Up,Normal,status,-,-
+44,Future Sight,Psychic,special,120,120
+55,Mist,Ice,status,-,-
+66,Psychic,Psychic,special,90,90
+77,Amnesia,Psychic,status,-,-
+88,Recover,Normal,status,-,-
+99,Safeguard,Normal,status,-,-

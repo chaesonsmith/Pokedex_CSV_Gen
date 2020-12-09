@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+1,Pound,Normal,physical,40,40
+4,Growth,Normal,status,-,-
+10,Razor Leaf,Grass,physical,55,55
+19,Sunny Day,Fire,status,-,-
+31,Petal Dance,Grass,special,120,120
+46,Solar Beam,Grass,special,120,120

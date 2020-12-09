@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+1,Withdraw,Water,status,-,-
+18,Supersonic,Normal,status,-,-
+23,Clamp,Water,physical,35,35
+30,Aurora Beam,Ice,special,65,65
+39,Leer,Normal,status,-,-
+50,Ice Beam,Ice,special,90,90

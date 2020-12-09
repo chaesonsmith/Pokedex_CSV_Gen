@@ -1,0 +1,4 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,String Shot,Bug,status,-,-
+1,Tackle,Normal,physical,40,40
+5,Poison Sting,Poison,physical,15,15

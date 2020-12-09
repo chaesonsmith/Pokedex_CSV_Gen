@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Spit Up,Normal,special,-,100
+Stockpile,Normal,status,-,-
+Swallow,Normal,status,-,-

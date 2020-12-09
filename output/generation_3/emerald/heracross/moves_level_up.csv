@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+6,Horn Attack,Normal,physical,65,65
+11,Endure,Normal,status,-,-
+17,Fury Attack,Normal,physical,15,15
+23,Brick Break,Fighting,physical,75,75
+30,Counter,Fighting,physical,-,-
+37,Take Down,Normal,physical,90,90
+45,Reversal,Fighting,physical,-,-
+53,Megahorn,Bug,physical,120,120

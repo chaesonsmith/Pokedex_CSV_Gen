@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Foresight,Normal,status,-,-
+Future Sight,Psychic,special,120,100
+Hypnosis,Psychic,status,-,60
+Ice Beam,Ice,special,90,100
+Light Screen,Psychic,status,-,-
+Psybeam,Psychic,special,65,100
+Psychic,Psychic,special,90,100

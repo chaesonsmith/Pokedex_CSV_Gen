@@ -1,0 +1,21 @@
+TM,Move,Type,Cat.,Power,Acc.
+06,Toxic,Poison,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+19,Giga Drain,Grass,special,75,75
+21,Frustration,Normal,physical,-,-
+23,Iron Tail,Steel,physical,100,100
+26,Earthquake,Ground,physical,100,100
+27,Return,Normal,physical,-,-
+28,Dig,Ground,physical,80,80
+32,Double Team,Normal,status,-,-
+36,Sludge Bomb,Poison,special,90,90
+41,Torment,Dark,status,-,-
+42,Facade,Normal,physical,70,70
+43,Secret Power,Normal,physical,70,70
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-
+46,Thief,Dark,physical,60,60
+49,Snatch,Dark,status,-,-

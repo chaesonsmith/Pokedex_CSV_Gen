@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leech Life,Bug,physical,80,80
+1,Screech,Normal,status,-,-
+1,Supersonic,Normal,status,-,-
+6,Supersonic,Normal,status,-,-
+12,Bite,Dark,physical,60,60
+19,Confuse Ray,Ghost,status,-,-
+30,Wing Attack,Flying,physical,60,60
+42,Mean Look,Normal,status,-,-
+55,Haze,Ice,status,-,-

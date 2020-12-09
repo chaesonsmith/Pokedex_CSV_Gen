@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Headbutt,Normal,physical,70,100
+Leech Seed,Grass,status,-,90
+Nature Power,Normal,status,-,-
+Razor Wind,Normal,special,80,100
+Slam,Normal,physical,80,75

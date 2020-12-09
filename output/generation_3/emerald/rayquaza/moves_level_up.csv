@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Twister,Dragon,special,40,40
+5,Scary Face,Normal,status,-,-
+15,Ancient Power,Rock,special,60,60
+20,Dragon Claw,Dragon,physical,80,80
+30,Dragon Dance,Dragon,status,-,-
+35,Crunch,Dark,physical,80,80
+45,Fly,Flying,physical,90,90
+50,Rest,Psychic,status,-,-
+60,Extreme Speed,Normal,physical,80,80
+65,Outrage,Dragon,physical,120,120
+75,Hyper Beam,Normal,special,150,150

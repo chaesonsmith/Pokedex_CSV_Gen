@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Focus Energy,Normal,status,-,-
+1,Leer,Normal,status,-,-
+1,Low Kick,Fighting,physical,-,-
+7,Focus Energy,Normal,status,-,-
+13,Karate Chop,Fighting,physical,50,50
+19,Seismic Toss,Fighting,physical,-,-
+22,Foresight,Normal,status,-,-
+25,Revenge,Fighting,physical,60,60
+33,Vital Throw,Fighting,physical,70,70
+41,Submission,Fighting,physical,80,80
+46,Cross Chop,Fighting,physical,100,100
+51,Scary Face,Normal,status,-,-
+59,Dynamic Punch,Fighting,physical,100,100

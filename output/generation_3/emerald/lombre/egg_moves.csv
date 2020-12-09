@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Flail,Normal,physical,-,100
+Leech Seed,Grass,status,-,90
+Razor Leaf,Grass,physical,55,95
+Sweet Scent,Normal,status,-,-
+Synthesis,Grass,status,-,-
+Water Gun,Water,special,40,100

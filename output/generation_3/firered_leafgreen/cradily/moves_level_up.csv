@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Acid,Poison,special,40,40
+1,Astonish,Ghost,physical,30,30
+1,Constrict,Normal,physical,10,10
+1,Ingrain,Grass,status,-,-
+8,Constrict,Normal,physical,10,10
+15,Acid,Poison,special,40,40
+22,Ingrain,Grass,status,-,-
+29,Confuse Ray,Ghost,status,-,-
+36,Amnesia,Psychic,status,-,-
+48,Ancient Power,Rock,special,60,60
+60,Spit Up,Normal,special,-,-
+60,Stockpile,Normal,status,-,-
+60,Swallow,Normal,status,-,-

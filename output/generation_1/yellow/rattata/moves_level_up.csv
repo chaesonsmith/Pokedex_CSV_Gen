@@ -1,0 +1,7 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+7,Quick Attack,Normal,physical,40,40
+14,Hyper Fang,Normal,physical,80,80
+23,Focus Energy,Normal,status,-,-
+34,Super Fang,Normal,physical,-,-

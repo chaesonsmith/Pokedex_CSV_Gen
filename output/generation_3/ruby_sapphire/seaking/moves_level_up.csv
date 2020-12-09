@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Peck,Flying,physical,35,35
+1,Supersonic,Normal,status,-,-
+1,Tail Whip,Normal,status,-,-
+1,Water Sport,Water,status,-,-
+10,Supersonic,Normal,status,-,-
+15,Horn Attack,Normal,physical,65,65
+24,Flail,Normal,physical,-,-
+29,Fury Attack,Normal,physical,15,15
+41,Waterfall,Water,physical,80,80
+49,Horn Drill,Normal,physical,-,-
+61,Agility,Psychic,status,-,-

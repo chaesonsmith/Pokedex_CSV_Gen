@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Curse,Ghost,status,-,-
+1,Knock Off,Dark,physical,65,65
+1,Night Shade,Ghost,special,-,-
+1,Screech,Normal,status,-,-
+8,Screech,Normal,status,-,-
+13,Night Shade,Ghost,special,-,-
+20,Curse,Ghost,status,-,-
+25,Spite,Ghost,status,-,-
+32,Will-O-Wisp,Fire,status,-,-
+39,Feint Attack,Dark,physical,60,60
+48,Shadow Ball,Ghost,special,80,80
+55,Snatch,Dark,status,-,-
+64,Grudge,Ghost,status,-,-

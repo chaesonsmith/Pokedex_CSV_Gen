@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+9,Quick Attack,Normal,physical,40,40
+17,Screech,Normal,status,-,-
+25,Feint Attack,Dark,physical,60,60
+33,Fury Swipes,Normal,physical,18,18
+41,Agility,Psychic,status,-,-
+49,Slash,Normal,physical,70,70
+57,Beat Up,Dark,physical,-,-

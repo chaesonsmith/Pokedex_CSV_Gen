@@ -1,0 +1,11 @@
+Move,Type,Cat.,Power,Acc.,Method
+Bide,Normal,physical,-,-,Level up
+Explosion,Normal,physical,250,100,Level up
+Extrasensory,Psychic,special,80,100,Level up
+Fake Out,Normal,physical,40,100,Level up
+Feint Attack,Dark,physical,60,∞,Level up
+Razor Wind,Normal,special,80,100,Level up
+Sunny Day,Fire,status,-,-,Level up
+Swagger,Normal,status,-,85,Level up
+Synthesis,Grass,status,-,-,Level up
+Torment,Dark,status,-,100,Level up

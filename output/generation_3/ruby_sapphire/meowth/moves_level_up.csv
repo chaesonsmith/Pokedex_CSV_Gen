@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+11,Bite,Dark,physical,60,60
+20,Pay Day,Normal,physical,40,40
+28,Feint Attack,Dark,physical,60,60
+35,Screech,Normal,status,-,-
+41,Fury Swipes,Normal,physical,18,18
+46,Slash,Normal,physical,70,70
+50,Fake Out,Normal,physical,40,40

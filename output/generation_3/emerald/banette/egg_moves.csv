@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Astonish,Ghost,physical,30,100
+Destiny Bond,Ghost,status,-,-
+Disable,Normal,status,-,100
+Foresight,Normal,status,-,-
+Imprison,Psychic,status,-,-

@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.,Method
+Confuse Ray,Ghost,status,-,100,Level up
+Fire Spin,Fire,special,35,85,Level up
+Flamethrower,Fire,special,90,100,Level up

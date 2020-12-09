@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Dig,Ground,physical,80,100,Level up
+False Swipe,Normal,physical,40,100,Level up
+Metal Claw,Steel,physical,50,95,Level up
+Mud-Slap,Ground,special,20,100,Level up

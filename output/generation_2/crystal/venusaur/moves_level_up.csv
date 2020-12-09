@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Leech Seed,Grass,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Vine Whip,Grass,physical,45,45
+4,Growl,Normal,status,-,-
+7,Leech Seed,Grass,status,-,-
+10,Vine Whip,Grass,physical,45,45
+15,Poison Powder,Poison,status,-,-
+15,Sleep Powder,Grass,status,-,-
+22,Razor Leaf,Grass,physical,55,55
+29,Sweet Scent,Normal,status,-,-
+41,Growth,Normal,status,-,-
+53,Synthesis,Grass,status,-,-
+65,Solar Beam,Grass,special,120,120

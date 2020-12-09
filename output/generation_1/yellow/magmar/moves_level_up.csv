@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ember,Fire,special,40,40
+36,Leer,Normal,status,-,-
+39,Confuse Ray,Ghost,status,-,-
+43,Fire Punch,Fire,physical,75,75
+48,Smokescreen,Normal,status,-,-
+52,Smog,Poison,special,30,30
+55,Flamethrower,Fire,special,90,90

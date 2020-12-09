@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+6,Low Kick,Fighting,physical,-,-
+11,Karate Chop,Fighting,physical,50,50
+16,Fury Swipes,Normal,physical,18,18
+21,Focus Energy,Normal,status,-,-
+26,Seismic Toss,Fighting,physical,-,-
+31,Cross Chop,Fighting,physical,100,100
+36,Swagger,Normal,status,-,-
+41,Screech,Normal,status,-,-
+46,Thrash,Normal,physical,120,120

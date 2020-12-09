@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Water Gun,Water,special,40,40
+1,Water Sport,Water,status,-,-
+1,Wing Attack,Flying,physical,60,60
+3,Water Gun,Water,special,40,40
+7,Supersonic,Normal,status,-,-
+13,Wing Attack,Flying,physical,60,60
+21,Mist,Ice,status,-,-
+25,Protect,Normal,status,-,-
+33,Stockpile,Normal,status,-,-
+33,Swallow,Normal,status,-,-
+47,Spit Up,Normal,special,-,-
+61,Hydro Pump,Water,special,110,110

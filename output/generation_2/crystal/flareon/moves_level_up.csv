@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+8,Sand Attack,Ground,status,-,-
+16,Ember,Fire,special,40,40
+23,Quick Attack,Normal,physical,40,40
+30,Bite,Dark,physical,60,60
+36,Fire Spin,Fire,special,35,35
+42,Smog,Poison,special,30,30
+47,Leer,Normal,status,-,-
+52,Flamethrower,Fire,special,90,90

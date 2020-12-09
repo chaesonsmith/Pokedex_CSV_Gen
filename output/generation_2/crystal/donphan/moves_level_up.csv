@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Horn Attack,Normal,physical,65,65
+9,Defense Curl,Normal,status,-,-
+17,Flail,Normal,physical,-,-
+25,Fury Attack,Normal,physical,15,15
+33,Rollout,Rock,physical,30,30
+41,Rapid Spin,Normal,physical,20,20
+49,Earthquake,Ground,physical,100,100

@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Helping Hand,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+8,Sand Attack,Ground,status,-,-
+16,Growl,Normal,status,-,-
+23,Quick Attack,Normal,physical,40,40
+30,Bite,Dark,physical,60,60
+36,Baton Pass,Normal,status,-,-
+42,Take Down,Normal,physical,90,90

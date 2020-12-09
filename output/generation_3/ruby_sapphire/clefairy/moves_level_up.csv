@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Pound,Normal,physical,40,40
+5,Encore,Normal,status,-,-
+9,Sing,Normal,status,-,-
+13,Double Slap,Normal,physical,15,15
+17,Follow Me,Normal,status,-,-
+21,Minimize,Normal,status,-,-
+25,Defense Curl,Normal,status,-,-
+29,Metronome,Normal,status,-,-
+33,Cosmic Power,Psychic,status,-,-
+37,Moonlight,Fairy,status,-,-
+41,Light Screen,Psychic,status,-,-
+45,Meteor Mash,Steel,physical,90,90

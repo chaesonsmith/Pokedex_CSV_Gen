@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Confusion,Psychic,special,50,50
+1,Growl,Normal,status,-,-
+1,Stomp,Normal,physical,65,65
+1,Tackle,Normal,physical,40,40
+7,Confusion,Psychic,special,50,50
+13,Stomp,Normal,physical,65,65
+20,Agility,Psychic,status,-,-
+30,Baton Pass,Normal,status,-,-
+41,Psybeam,Psychic,special,65,65
+54,Crunch,Dark,physical,80,80

@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Peck,Flying,physical,35,35
+1,Thunder Shock,Electric,special,40,40
+13,Thunder Wave,Electric,status,-,-
+25,Agility,Psychic,status,-,-
+37,Detect,Fighting,status,-,-
+49,Drill Peck,Flying,physical,80,80
+61,Charge,Electric,status,-,-
+73,Light Screen,Psychic,status,-,-
+85,Thunder,Electric,special,110,110

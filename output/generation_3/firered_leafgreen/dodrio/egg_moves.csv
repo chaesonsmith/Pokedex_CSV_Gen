@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Endeavor,Normal,physical,-,100
+Feint Attack,Dark,physical,60,∞
+Flail,Normal,physical,-,100
+Haze,Ice,status,-,-
+Quick Attack,Normal,physical,40,100
+Supersonic,Normal,status,-,55

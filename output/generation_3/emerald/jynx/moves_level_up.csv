@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Lick,Ghost,physical,30,30
+1,Lovely Kiss,Normal,status,-,-
+1,Pound,Normal,physical,40,40
+1,Powder Snow,Ice,special,40,40
+9,Lovely Kiss,Normal,status,-,-
+13,Powder Snow,Ice,special,40,40
+21,Double Slap,Normal,physical,15,15
+25,Ice Punch,Ice,physical,75,75
+35,Mean Look,Normal,status,-,-
+41,Fake Tears,Dark,status,-,-
+51,Body Slam,Normal,physical,85,85
+57,Perish Song,Normal,status,-,-
+67,Blizzard,Ice,special,110,110

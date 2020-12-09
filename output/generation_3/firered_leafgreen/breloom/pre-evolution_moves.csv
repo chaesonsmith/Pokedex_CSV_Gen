@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Giga Drain,Grass,special,75,100,Level up
+Growth,Normal,status,-,-,Level up
+Poison Powder,Poison,status,-,75,Level up
+Spore,Grass,status,-,100,Level up

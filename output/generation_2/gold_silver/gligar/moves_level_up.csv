@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Poison Sting,Poison,physical,15,15
+6,Sand Attack,Ground,status,-,-
+13,Harden,Normal,status,-,-
+20,Quick Attack,Normal,physical,40,40
+28,Feint Attack,Dark,physical,60,60
+36,Slash,Normal,physical,70,70
+44,Screech,Normal,status,-,-
+52,Guillotine,Normal,physical,-,-

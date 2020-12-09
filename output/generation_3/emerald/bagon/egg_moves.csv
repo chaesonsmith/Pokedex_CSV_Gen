@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Dragon Dance,Dragon,status,-,-
+Dragon Rage,Dragon,special,-,100
+Hydro Pump,Water,special,110,80
+Thrash,Normal,physical,120,100
+Twister,Dragon,special,40,100

@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Feint Attack,Dark,physical,60,∞
+Foresight,Normal,status,-,-
+Pursuit,Dark,physical,40,100
+Steel Wing,Steel,physical,70,90

@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Quick Attack,Normal,physical,40,40
+34,Thunder Shock,Electric,special,40,40
+37,Screech,Normal,status,-,-
+42,Thunder Punch,Electric,physical,75,75
+49,Light Screen,Psychic,status,-,-
+54,Thunder,Electric,special,110,110

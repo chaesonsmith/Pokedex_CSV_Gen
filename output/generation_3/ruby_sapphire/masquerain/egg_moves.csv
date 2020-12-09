@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Foresight,Normal,status,-,-
+Hydro Pump,Water,special,110,80
+Mind Reader,Normal,status,-,-
+Mud Shot,Ground,special,55,95
+Psybeam,Psychic,special,65,100

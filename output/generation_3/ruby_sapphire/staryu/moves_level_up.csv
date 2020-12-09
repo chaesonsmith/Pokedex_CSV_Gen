@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+6,Water Gun,Water,special,40,40
+10,Rapid Spin,Normal,physical,20,20
+15,Recover,Normal,status,-,-
+19,Camouflage,Normal,status,-,-
+24,Swift,Normal,special,60,60
+28,Bubble Beam,Water,special,65,65
+33,Minimize,Normal,status,-,-
+37,Light Screen,Psychic,status,-,-
+42,Cosmic Power,Psychic,status,-,-
+46,Hydro Pump,Water,special,110,110

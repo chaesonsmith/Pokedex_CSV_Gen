@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Disable,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+1,Water Sport,Water,status,-,-
+5,Tail Whip,Normal,status,-,-
+10,Disable,Normal,status,-,-
+16,Confusion,Psychic,special,50,50
+23,Screech,Normal,status,-,-
+31,Psych Up,Normal,status,-,-
+44,Fury Swipes,Normal,physical,18,18
+58,Hydro Pump,Water,special,110,110

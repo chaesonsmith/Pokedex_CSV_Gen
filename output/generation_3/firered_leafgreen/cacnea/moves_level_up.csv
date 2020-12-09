@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Poison Sting,Poison,physical,15,15
+5,Absorb,Grass,special,20,20
+9,Growth,Normal,status,-,-
+13,Leech Seed,Grass,status,-,-
+17,Sand Attack,Ground,status,-,-
+21,Pin Missile,Bug,physical,25,25
+25,Ingrain,Grass,status,-,-
+29,Feint Attack,Dark,physical,60,60
+33,Spikes,Ground,status,-,-
+37,Needle Arm,Grass,physical,60,60
+41,Cotton Spore,Grass,status,-,-
+45,Sandstorm,Rock,status,-,-
+49,Destiny Bond,Ghost,status,-,-

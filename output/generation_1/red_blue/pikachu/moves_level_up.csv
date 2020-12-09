@@ -1,0 +1,8 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Thunder Shock,Electric,special,40,40
+9,Thunder Wave,Electric,status,-,-
+16,Quick Attack,Normal,physical,40,40
+26,Swift,Normal,special,60,60
+33,Agility,Psychic,status,-,-
+43,Thunder,Electric,special,110,110

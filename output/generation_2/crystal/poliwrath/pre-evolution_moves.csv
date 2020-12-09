@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.,Method
+Belly Drum,Normal,status,-,-,Level up
+Body Slam,Normal,physical,85,100,Level up
+Bubble,Water,special,40,100,Level up
+Hydro Pump,Water,special,110,80,Level up
+Rain Dance,Water,status,-,-,Level up

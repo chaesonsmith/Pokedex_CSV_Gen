@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+9,Defense Curl,Normal,status,-,-
+17,Flail,Normal,physical,-,-
+25,Take Down,Normal,physical,90,90
+33,Rollout,Rock,physical,30,30
+41,Endure,Normal,status,-,-
+49,Double-Edge,Normal,physical,120,120

@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Bide,Normal,physical,-,-
+Light Screen,Psychic,status,-,-
+Psybeam,Psychic,special,65,100

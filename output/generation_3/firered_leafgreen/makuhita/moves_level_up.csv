@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Focus Energy,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+4,Sand Attack,Ground,status,-,-
+10,Arm Thrust,Fighting,physical,15,15
+13,Vital Throw,Fighting,physical,70,70
+19,Fake Out,Normal,physical,40,40
+22,Whirlwind,Normal,status,-,-
+28,Knock Off,Dark,physical,65,65
+31,Smelling Salts,Normal,physical,70,70
+37,Belly Drum,Normal,status,-,-
+40,Endure,Normal,status,-,-
+46,Seismic Toss,Fighting,physical,-,-
+49,Reversal,Fighting,physical,-,-

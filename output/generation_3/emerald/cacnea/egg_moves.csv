@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Acid,Poison,special,40,100
+Counter,Fighting,physical,-,100
+Dynamic Punch,Fighting,physical,100,50
+Grass Whistle,Grass,status,-,55
+Teeter Dance,Normal,status,-,100

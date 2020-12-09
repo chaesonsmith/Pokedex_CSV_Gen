@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Comet Punch,Normal,physical,18,18
+7,Leer,Normal,status,-,-
+13,Bite,Dark,physical,60,60
+19,Tail Whip,Normal,status,-,-
+25,Mega Punch,Normal,physical,80,80
+31,Rage,Normal,physical,20,20
+37,Endure,Normal,status,-,-
+43,Dizzy Punch,Normal,physical,70,70
+49,Reversal,Fighting,physical,-,-

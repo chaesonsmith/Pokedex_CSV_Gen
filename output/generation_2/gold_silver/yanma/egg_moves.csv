@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Leech Life,Bug,physical,80,100
+Reversal,Fighting,physical,-,100
+Whirlwind,Normal,status,-,-

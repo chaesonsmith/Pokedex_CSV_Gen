@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Quick Attack,Normal,physical,40,40
+1,Tackle,Normal,physical,40,40
+1,Tail Whip,Normal,status,-,-
+7,Quick Attack,Normal,physical,40,40
+13,Hyper Fang,Normal,physical,80,80
+20,Scary Face,Normal,status,-,-
+30,Pursuit,Dark,physical,40,40
+40,Super Fang,Normal,physical,-,-
+50,Endeavor,Normal,physical,-,-

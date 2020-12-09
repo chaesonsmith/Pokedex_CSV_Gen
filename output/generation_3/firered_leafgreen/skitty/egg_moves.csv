@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Baton Pass,Normal,status,-,-
+Fake Tears,Dark,status,-,100
+Helping Hand,Normal,status,-,-
+Psych Up,Normal,status,-,-
+Substitute,Normal,status,-,-
+Tickle,Normal,status,-,100
+Uproar,Normal,special,90,100
+Wish,Normal,status,-,-

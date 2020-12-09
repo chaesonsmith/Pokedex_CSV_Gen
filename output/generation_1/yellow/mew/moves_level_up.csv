@@ -1,0 +1,6 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Pound,Normal,physical,40,40
+10,Transform,Normal,status,-,-
+20,Mega Punch,Normal,physical,80,80
+30,Metronome,Normal,status,-,-
+40,Psychic,Psychic,special,90,90

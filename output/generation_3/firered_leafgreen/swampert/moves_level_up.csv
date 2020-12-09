@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Mud-Slap,Ground,special,20,20
+1,Tackle,Normal,physical,40,40
+1,Water Gun,Water,special,40,40
+6,Mud-Slap,Ground,special,20,20
+10,Water Gun,Water,special,40,40
+15,Bide,Normal,physical,-,-
+16,Mud Shot,Ground,special,55,55
+20,Foresight,Normal,status,-,-
+25,Mud Sport,Ground,status,-,-
+31,Take Down,Normal,physical,90,90
+39,Muddy Water,Water,special,90,90
+46,Protect,Normal,status,-,-
+52,Earthquake,Ground,physical,100,100
+61,Endeavor,Normal,physical,-,-

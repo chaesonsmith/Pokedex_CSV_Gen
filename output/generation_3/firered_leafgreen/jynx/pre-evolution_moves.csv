@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.,Method
+Confusion,Psychic,special,50,100,Level up
+Psychic,Psychic,special,90,100,Level up
+Sing,Normal,status,-,55,Level up
+Sweet Kiss,Fairy,status,-,75,Level up

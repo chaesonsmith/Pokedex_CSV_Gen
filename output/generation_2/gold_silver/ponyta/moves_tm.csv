@@ -1,0 +1,19 @@
+TM,Move,Type,Cat.,Power,Acc.
+02,Headbutt,Normal,physical,70,70
+03,Curse,Ghost,status,-,-
+06,Toxic,Poison,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+13,Snore,Normal,special,50,50
+17,Protect,Normal,status,-,-
+20,Endure,Normal,status,-,-
+21,Frustration,Normal,physical,-,-
+23,Iron Tail,Steel,physical,100,100
+27,Return,Normal,physical,-,-
+32,Double Team,Normal,status,-,-
+34,Swagger,Normal,status,-,-
+35,Sleep Talk,Normal,status,-,-
+38,Fire Blast,Fire,special,110,110
+39,Swift,Normal,special,60,60
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-

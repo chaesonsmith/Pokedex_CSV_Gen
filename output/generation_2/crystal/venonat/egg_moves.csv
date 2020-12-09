@@ -1,0 +1,4 @@
+Move,Type,Cat.,Power,Acc.
+Baton Pass,Normal,status,-,-
+Giga Drain,Grass,special,75,100
+Screech,Normal,status,-,85

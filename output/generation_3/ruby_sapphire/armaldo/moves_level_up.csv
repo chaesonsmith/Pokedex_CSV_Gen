@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Harden,Normal,status,-,-
+1,Mud Sport,Ground,status,-,-
+1,Scratch,Normal,physical,40,40
+1,Water Gun,Water,special,40,40
+7,Harden,Normal,status,-,-
+13,Mud Sport,Ground,status,-,-
+19,Water Gun,Water,special,40,40
+25,Metal Claw,Steel,physical,50,50
+31,Protect,Normal,status,-,-
+37,Ancient Power,Rock,special,60,60
+46,Fury Cutter,Bug,physical,40,40
+55,Slash,Normal,physical,70,70
+64,Rock Blast,Rock,physical,25,25

@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Whirlpool,Water,special,35,35
+8,Bite,Dark,physical,60,60
+15,Screech,Normal,status,-,-
+22,Water Pulse,Water,special,60,60
+29,Scary Face,Normal,status,-,-
+36,Crunch,Dark,physical,80,80
+43,Baton Pass,Normal,status,-,-
+50,Hydro Pump,Water,special,110,110

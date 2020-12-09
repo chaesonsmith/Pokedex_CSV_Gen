@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Magnitude,Ground,physical,-,-
+1,Scratch,Normal,physical,40,40
+5,Growl,Normal,status,-,-
+9,Magnitude,Ground,physical,-,-
+17,Dig,Ground,physical,80,80
+25,Sand Attack,Ground,status,-,-
+37,Slash,Normal,physical,70,70
+49,Earthquake,Ground,physical,100,100
+61,Fissure,Ground,physical,-,-

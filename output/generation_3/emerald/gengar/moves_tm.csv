@@ -1,0 +1,27 @@
+TM,Move,Type,Cat.,Power,Acc.
+01,Focus Punch,Fighting,physical,150,150
+06,Toxic,Poison,status,-,-
+10,Hidden Power,Normal,special,60,60
+11,Sunny Day,Fire,status,-,-
+12,Taunt,Dark,status,-,-
+15,Hyper Beam,Normal,special,150,150
+17,Protect,Normal,status,-,-
+18,Rain Dance,Water,status,-,-
+19,Giga Drain,Grass,special,75,75
+21,Frustration,Normal,physical,-,-
+24,Thunderbolt,Electric,special,90,90
+25,Thunder,Electric,special,110,110
+27,Return,Normal,physical,-,-
+29,Psychic,Psychic,special,90,90
+30,Shadow Ball,Ghost,special,80,80
+31,Brick Break,Fighting,physical,75,75
+32,Double Team,Normal,status,-,-
+36,Sludge Bomb,Poison,special,90,90
+41,Torment,Dark,status,-,-
+42,Facade,Normal,physical,70,70
+43,Secret Power,Normal,physical,70,70
+44,Rest,Psychic,status,-,-
+45,Attract,Normal,status,-,-
+46,Thief,Dark,physical,60,60
+48,Skill Swap,Psychic,status,-,-
+49,Snatch,Dark,status,-,-

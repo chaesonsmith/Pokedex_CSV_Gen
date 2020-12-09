@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Disable,Normal,status,-,-
+1,Foresight,Normal,status,-,-
+1,Supersonic,Normal,status,-,-
+1,Tackle,Normal,physical,40,40
+9,Supersonic,Normal,status,-,-
+17,Confusion,Psychic,special,50,50
+20,Poison Powder,Poison,status,-,-
+25,Leech Life,Bug,physical,80,80
+28,Stun Spore,Grass,status,-,-
+31,Gust,Flying,special,40,40
+36,Psybeam,Psychic,special,65,65
+42,Sleep Powder,Grass,status,-,-
+52,Psychic,Psychic,special,90,90

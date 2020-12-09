@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Thunder Wave,Electric,status,-,-
+1,Twister,Dragon,special,40,40
+1,Wrap,Normal,physical,15,15
+8,Thunder Wave,Electric,status,-,-
+15,Twister,Dragon,special,40,40
+22,Dragon Rage,Dragon,special,-,-
+29,Slam,Normal,physical,80,80
+38,Agility,Psychic,status,-,-
+47,Safeguard,Normal,status,-,-
+55,Wing Attack,Flying,physical,60,60
+61,Outrage,Dragon,physical,120,120
+75,Hyper Beam,Normal,special,150,150

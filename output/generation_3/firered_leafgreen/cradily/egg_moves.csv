@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Barrier,Psychic,status,-,-
+Mirror Coat,Psychic,special,-,100
+Recover,Normal,status,-,-
+Rock Slide,Rock,physical,75,90

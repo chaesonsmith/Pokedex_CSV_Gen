@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+1,Leech Seed,Grass,status,-,-
+1,Stun Spore,Grass,status,-,-
+1,Tackle,Normal,physical,40,40
+4,Tackle,Normal,physical,40,40
+7,Stun Spore,Grass,status,-,-
+10,Leech Seed,Grass,status,-,-
+16,Mega Drain,Grass,special,40,40
+22,Headbutt,Normal,physical,70,70
+23,Mach Punch,Fighting,physical,40,40
+28,Counter,Fighting,physical,-,-
+36,Sky Uppercut,Fighting,physical,85,85
+45,Mind Reader,Normal,status,-,-
+54,Dynamic Punch,Fighting,physical,100,100

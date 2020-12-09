@@ -1,0 +1,12 @@
+Move,Type,Cat.,Power,Acc.
+Body Slam,Normal,physical,85,100
+Counter,Fighting,physical,-,100
+Double-Edge,Normal,physical,120,100
+Explosion,Normal,physical,250,100
+Mega Kick,Normal,physical,120,75
+Mega Punch,Normal,physical,80,85
+Metronome,Normal,status,-,-
+Mimic,Normal,status,-,-
+Rock Slide,Rock,physical,75,90
+Seismic Toss,Fighting,physical,-,100
+Substitute,Normal,status,-,-

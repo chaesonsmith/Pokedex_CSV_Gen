@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ember,Fire,special,40,40
+1,Growl,Normal,status,-,-
+1,Magnitude,Ground,physical,-,-
+1,Tackle,Normal,physical,40,40
+11,Ember,Fire,special,40,40
+19,Magnitude,Ground,physical,-,-
+25,Focus Energy,Normal,status,-,-
+29,Take Down,Normal,physical,90,90
+31,Amnesia,Psychic,status,-,-
+33,Rock Slide,Rock,physical,75,75
+37,Earthquake,Ground,physical,100,100
+45,Eruption,Fire,special,150,150
+55,Fissure,Ground,physical,-,-

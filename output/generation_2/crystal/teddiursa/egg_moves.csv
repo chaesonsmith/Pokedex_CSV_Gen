@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Counter,Fighting,physical,-,100
+Crunch,Dark,physical,80,100
+Focus Energy,Normal,status,-,-
+Metal Claw,Steel,physical,50,95
+Seismic Toss,Fighting,physical,-,100
+Take Down,Normal,physical,90,85

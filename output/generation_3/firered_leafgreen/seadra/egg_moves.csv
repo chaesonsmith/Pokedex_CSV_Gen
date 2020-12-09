@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Aurora Beam,Ice,special,65,100
+Disable,Normal,status,-,100
+Dragon Breath,Dragon,special,60,100
+Dragon Rage,Dragon,special,-,100
+Flail,Normal,physical,-,100
+Octazooka,Water,special,65,85
+Splash,Normal,status,-,-

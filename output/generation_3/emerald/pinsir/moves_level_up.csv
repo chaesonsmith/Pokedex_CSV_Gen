@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Focus Energy,Normal,status,-,-
+1,Vice Grip,Normal,physical,55,55
+7,Bind,Normal,physical,15,15
+13,Seismic Toss,Fighting,physical,-,-
+19,Harden,Normal,status,-,-
+25,Revenge,Fighting,physical,60,60
+31,Brick Break,Fighting,physical,75,75
+37,Guillotine,Normal,physical,-,-
+43,Submission,Fighting,physical,80,80
+49,Swords Dance,Normal,status,-,-

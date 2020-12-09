@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Leer,Normal,status,-,-
+1,Quick Attack,Normal,physical,40,40
+6,Focus Energy,Normal,status,-,-
+12,Pursuit,Dark,physical,40,40
+18,False Swipe,Normal,physical,40,40
+24,Agility,Psychic,status,-,-
+30,Metal Claw,Steel,physical,50,50
+36,Slash,Normal,physical,70,70
+42,Swords Dance,Normal,status,-,-
+48,Double Team,Normal,status,-,-

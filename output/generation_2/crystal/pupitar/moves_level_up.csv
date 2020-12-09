@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+1,Leer,Normal,status,-,-
+1,Sandstorm,Rock,status,-,-
+1,Screech,Normal,status,-,-
+8,Sandstorm,Rock,status,-,-
+15,Screech,Normal,status,-,-
+22,Rock Slide,Rock,physical,75,75
+29,Thrash,Normal,physical,120,120
+38,Scary Face,Normal,status,-,-
+47,Crunch,Dark,physical,80,80
+56,Earthquake,Ground,physical,100,100
+65,Hyper Beam,Normal,special,150,150

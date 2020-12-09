@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Tackle,Normal,physical,40,40
+6,Amnesia,Psychic,status,-,-
+10,Defense Curl,Normal,status,-,-
+15,Belly Drum,Normal,status,-,-
+19,Headbutt,Normal,physical,70,70
+24,Yawn,Normal,status,-,-
+28,Rest,Psychic,status,-,-
+28,Snore,Normal,special,50,50
+33,Body Slam,Normal,physical,85,85
+37,Block,Normal,status,-,-
+42,Covet,Normal,physical,60,60
+46,Rollout,Rock,physical,30,30
+51,Hyper Beam,Normal,special,150,150

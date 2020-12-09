@@ -1,0 +1,6 @@
+Move,Type,Cat.,Power,Acc.
+Disable,Normal,status,-,100
+Focus Energy,Normal,status,-,-
+Foresight,Normal,status,-,-
+Safeguard,Normal,status,-,-
+Stomp,Normal,physical,65,100

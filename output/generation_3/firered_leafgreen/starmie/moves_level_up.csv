@@ -1,0 +1,6 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Rapid Spin,Normal,physical,20,20
+1,Recover,Normal,status,-,-
+1,Swift,Normal,special,60,60
+1,Water Gun,Water,special,40,40
+33,Confuse Ray,Ghost,status,-,-

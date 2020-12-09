@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Endure,Normal,status,-,-
+Feint Attack,Dark,physical,60,∞
+Gust,Flying,special,40,100
+Silver Wind,Bug,special,60,100

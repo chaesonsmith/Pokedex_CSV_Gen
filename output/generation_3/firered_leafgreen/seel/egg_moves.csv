@@ -1,0 +1,9 @@
+Move,Type,Cat.,Power,Acc.
+Disable,Normal,status,-,100
+Encore,Normal,status,-,100
+Fake Out,Normal,physical,40,100
+Horn Drill,Normal,physical,-,-
+Icicle Spear,Ice,physical,25,100
+Lick,Ghost,physical,30,100
+Perish Song,Normal,status,-,-
+Slam,Normal,physical,80,75

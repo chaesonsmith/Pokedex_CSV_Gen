@@ -1,0 +1,5 @@
+Move,Type,Cat.,Power,Acc.
+Agility,Psychic,status,-,-
+Haze,Ice,status,-,-
+Pursuit,Dark,physical,40,100
+Rage,Normal,physical,20,100

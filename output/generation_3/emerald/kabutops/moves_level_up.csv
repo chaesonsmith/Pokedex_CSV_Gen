@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Absorb,Grass,special,20,20
+1,Harden,Normal,status,-,-
+1,Scratch,Normal,physical,40,40
+13,Absorb,Grass,special,20,20
+19,Leer,Normal,status,-,-
+25,Mud Shot,Ground,special,55,55
+31,Sand Attack,Ground,status,-,-
+37,Endure,Normal,status,-,-
+40,Slash,Normal,physical,70,70
+46,Metal Sound,Steel,status,-,-
+55,Mega Drain,Grass,special,40,40
+65,Ancient Power,Rock,special,60,60

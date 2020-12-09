@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bite,Dark,physical,60,60
+9,Sand Attack,Ground,status,-,-
+17,Feint Attack,Dark,physical,60,60
+25,Sand Tomb,Ground,physical,35,35
+33,Crunch,Dark,physical,80,80
+41,Dig,Ground,physical,80,80
+49,Sandstorm,Rock,status,-,-
+57,Hyper Beam,Normal,special,150,150

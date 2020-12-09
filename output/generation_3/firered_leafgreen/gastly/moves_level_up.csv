@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Hypnosis,Psychic,status,-,-
+1,Lick,Ghost,physical,30,30
+8,Spite,Ghost,status,-,-
+13,Curse,Ghost,status,-,-
+16,Night Shade,Ghost,special,-,-
+21,Confuse Ray,Ghost,status,-,-
+28,Dream Eater,Psychic,special,100,100
+33,Destiny Bond,Ghost,status,-,-
+36,Shadow Ball,Ghost,special,80,80
+41,Nightmare,Ghost,status,-,-
+48,Mean Look,Normal,status,-,-

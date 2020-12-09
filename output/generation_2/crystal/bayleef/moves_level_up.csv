@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Growl,Normal,status,-,-
+1,Razor Leaf,Grass,physical,55,55
+1,Reflect,Psychic,status,-,-
+1,Tackle,Normal,physical,40,40
+8,Razor Leaf,Grass,physical,55,55
+12,Reflect,Psychic,status,-,-
+15,Poison Powder,Poison,status,-,-
+23,Synthesis,Grass,status,-,-
+31,Body Slam,Normal,physical,85,85
+39,Light Screen,Psychic,status,-,-
+47,Safeguard,Normal,status,-,-
+55,Solar Beam,Grass,special,120,120

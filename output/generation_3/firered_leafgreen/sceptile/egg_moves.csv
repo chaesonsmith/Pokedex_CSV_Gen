@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Crunch,Dark,physical,80,100
+Crush Claw,Normal,physical,75,95
+Dragon Breath,Dragon,special,60,100
+Endeavor,Normal,physical,-,100
+Leech Seed,Grass,status,-,90
+Mud Sport,Ground,status,-,-

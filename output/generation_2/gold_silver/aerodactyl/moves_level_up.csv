@@ -1,0 +1,9 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Wing Attack,Flying,physical,60,60
+8,Agility,Psychic,status,-,-
+15,Bite,Dark,physical,60,60
+22,Supersonic,Normal,status,-,-
+29,Ancient Power,Rock,special,60,60
+36,Scary Face,Normal,status,-,-
+43,Take Down,Normal,physical,90,90
+50,Hyper Beam,Normal,special,150,150

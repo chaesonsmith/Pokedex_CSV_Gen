@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Ember,Fire,special,40,40
+4,Smog,Poison,special,30,30
+7,Curse,Ghost,status,-,-
+14,Smokescreen,Normal,status,-,-
+17,Fire Spin,Fire,special,35,35
+20,Body Slam,Normal,physical,85,85
+27,Protect,Normal,status,-,-
+30,Flamethrower,Fire,special,90,90
+33,Iron Defense,Steel,status,-,-
+40,Amnesia,Psychic,status,-,-
+43,Flail,Normal,physical,-,-
+46,Heat Wave,Fire,special,95,95

@@ -1,0 +1,7 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Sand Attack,Ground,status,-,-
+1,Tackle,Normal,physical,40,40
+27,Quick Attack,Normal,physical,40,40
+31,Tail Whip,Normal,status,-,-
+37,Bite,Dark,physical,60,60
+45,Take Down,Normal,physical,90,90

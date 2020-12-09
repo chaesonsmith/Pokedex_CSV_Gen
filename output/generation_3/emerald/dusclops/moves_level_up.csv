@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1,Bind,Normal,physical,15,15
+1,Disable,Normal,status,-,-
+1,Leer,Normal,status,-,-
+1,Night Shade,Ghost,special,-,-
+5,Disable,Normal,status,-,-
+12,Foresight,Normal,status,-,-
+16,Astonish,Ghost,physical,30,30
+23,Confuse Ray,Ghost,status,-,-
+27,Pursuit,Dark,physical,40,40
+34,Curse,Ghost,status,-,-
+37,Shadow Punch,Ghost,physical,60,60
+41,Will-O-Wisp,Fire,status,-,-
+51,Mean Look,Normal,status,-,-
+58,Future Sight,Psychic,special,120,120

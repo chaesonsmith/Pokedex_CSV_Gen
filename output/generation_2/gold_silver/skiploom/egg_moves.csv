@@ -1,0 +1,8 @@
+Move,Type,Cat.,Power,Acc.
+Amnesia,Psychic,status,-,-
+Confusion,Psychic,special,50,100
+Double-Edge,Normal,physical,120,100
+Encore,Normal,status,-,100
+Growl,Normal,status,-,100
+Pay Day,Normal,physical,40,100
+Reflect,Psychic,status,-,-

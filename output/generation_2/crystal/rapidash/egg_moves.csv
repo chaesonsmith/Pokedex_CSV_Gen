@@ -1,0 +1,7 @@
+Move,Type,Cat.,Power,Acc.
+Charm,Fairy,status,-,100
+Double Kick,Fighting,physical,30,100
+Flame Wheel,Fire,physical,60,100
+Hypnosis,Psychic,status,-,60
+Quick Attack,Normal,physical,40,100
+Thrash,Normal,physical,120,100
